@@ -1,0 +1,4004 @@
+{
+    "questions": [
+        {
+            "text": "1. Pourquoi la géométrie 3D est-elle utilisée en archéologie numérique ?",
+            "options": [
+                {
+                    "text": "Pour lire et démêler des manuscrits sans les détruire",
+                    "value": "a"
+                },
+                {
+                    "text": "Pour analyser les matériaux archéologiques en laboratoire",
+                    "value": "b"
+                },
+                {
+                    "text": "Pour reconstruire des sites historiques en réalité virtuelle",
+                    "value": "c"
+                },
+                {
+                    "text": "Pour photographier des objets en 3D",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 1.1",
+            "section": "Introduction à la géométrie 3D",
+            "explanation": "La géométrie 3D permet de modéliser et d'analyser des objets fragiles, comme des manuscrits anciens, en préservant leur intégrité physique. Cela évite de les endommager tout en permettant une étude approfondie."
+        },
+        {
+            "text": "2. Quelle application médicale utilise la géométrie 3D ?",
+            "options": [
+                {
+                    "text": "La planification d'opérations chirurgicales",
+                    "value": "a"
+                },
+                {
+                    "text": "L'analyse génétique",
+                    "value": "b"
+                },
+                {
+                    "text": "La gestion de dossiers médicaux",
+                    "value": "c"
+                },
+                {
+                    "text": "La fabrication de médicaments",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 1.1",
+            "section": "Introduction à la géométrie 3D",
+            "explanation": "La géométrie 3D est utilisée pour créer des modèles des organes internes, ce qui aide les chirurgiens à planifier des interventions complexes avec une précision accrue."
+        },
+        {
+            "text": "3. Dans quelle application la géométrie 3D est-elle utilisée pour surveiller l'érosion côtière ?",
+            "options": [
+                {
+                    "text": "Urbanisme",
+                    "value": "a"
+                },
+                {
+                    "text": "Géologie",
+                    "value": "b"
+                },
+                {
+                    "text": "Tourisme numérique",
+                    "value": "c"
+                },
+                {
+                    "text": "Réalité augmentée",
+                    "value": "d"
+                }
+            ],
+            "correct": "b",
+            "CM": "CM 1.1",
+            "section": "Introduction à la géométrie 3D",
+            "explanation": "Les outils géométriques en 3D sont essentiels pour surveiller les changements dans les structures côtières et prévenir les risques liés à l'érosion."
+        },
+        {
+            "text": "4. Quel type de système de transport est optimisé grâce à la géométrie 3D ?",
+            "options": [
+                {
+                    "text": "Métros souterrains",
+                    "value": "a"
+                },
+                {
+                    "text": "Gestion de trafic routier",
+                    "value": "b"
+                },
+                {
+                    "text": "Systèmes ferroviaires",
+                    "value": "c"
+                },
+                {
+                    "text": "Transport maritime",
+                    "value": "d"
+                }
+            ],
+            "correct": "b",
+            "CM": "CM 1.1",
+            "section": "Introduction à la géométrie 3D",
+            "explanation": "Les modèles 3D sont utilisés pour simuler et analyser les réseaux routiers afin d'optimiser la circulation et de réduire les embouteillages."
+        },
+        {
+            "text": "5. Comment appelle-t-on le point d'origine dans un espace cartésien ?",
+            "options": [
+                {
+                    "text": "Le centre de rotation",
+                    "value": "a"
+                },
+                {
+                    "text": "Le point zéro",
+                    "value": "b"
+                },
+                {
+                    "text": "L'origine (O)",
+                    "value": "c"
+                },
+                {
+                    "text": "Le sommet",
+                    "value": "d"
+                }
+            ],
+            "correct": "c",
+            "CM": "CM 1.1",
+            "section": "Systèmes de coordonnées",
+            "explanation": "Le point d'origine (0, 0, 0) est le point central à partir duquel toutes les coordonnées sont mesurées dans un système cartésien."
+        },
+        {
+            "text": "6. Dans un espace cartésien 2D, que représentent les axes X et Y ?",
+            "options": [
+                {
+                    "text": "Des lignes parallèles",
+                    "value": "a"
+                },
+                {
+                    "text": "Des systèmes de transformation",
+                    "value": "b"
+                },
+                {
+                    "text": "Les coordonnées polaires",
+                    "value": "c"
+                },
+                {
+                    "text": "Des dimensions indépendantes",
+                    "value": "d"
+                }
+            ],
+            "correct": "d",
+            "CM": "CM 1.1",
+            "section": "Systèmes de coordonnées",
+            "explanation": "Dans un espace cartésien 2D, les axes X et Y représentent des dimensions indépendantes qui permettent de localiser des points précisément."
+        },
+        {
+            "text": "7. Quel système de coordonnées utilisons-nous dans ce cours ?",
+            "options": [
+                {
+                    "text": "Coordonnées polaires",
+                    "value": "a"
+                },
+                {
+                    "text": "Système de coordonnées droitier",
+                    "value": "b"
+                },
+                {
+                    "text": "Système de coordonnées gaucher",
+                    "value": "c"
+                },
+                {
+                    "text": "Système cylindrique",
+                    "value": "d"
+                }
+            ],
+            "correct": "c",
+            "CM": "CM 1.1",
+            "section": "Systèmes de coordonnées",
+            "explanation": "Nous utilisons un système de coordonnées gaucher, qui a ses propres règles de rotation et de représentation spatiale."
+        },
+        {
+            "text": "8. Que signifie 'système de coordonnées gaucher' ?",
+            "options": [
+                {
+                    "text": "Les axes X, Y et Z sont inversés par rapport au système droitier",
+                    "value": "a"
+                },
+                {
+                    "text": "La rotation suit la règle de la main gauche",
+                    "value": "b"
+                },
+                {
+                    "text": "Il est exclusivement utilisé pour les animations",
+                    "value": "c"
+                },
+                {
+                    "text": "Il est plus précis que le système droitier",
+                    "value": "d"
+                }
+            ],
+            "correct": "b",
+            "CM": "CM 1.1",
+            "section": "Systèmes de coordonnées",
+            "explanation": "Dans un système de coordonnées gaucher, la rotation suit la règle de la main gauche, ce qui affecte l'orientation des axes."
+        },
+        {
+            "text": "9. Que représente un vecteur dans un espace 3D ?",
+            "options": [
+                {
+                    "text": "Un point dans l'espace",
+                    "value": "a"
+                },
+                {
+                    "text": "Une distance entre deux points",
+                    "value": "b"
+                },
+                {
+                    "text": "Une direction et une magnitude",
+                    "value": "c"
+                },
+                {
+                    "text": "Une transformation",
+                    "value": "d"
+                }
+            ],
+            "correct": "c",
+            "CM": "CM 1.1",
+            "section": "Matrices et vecteurs",
+            "explanation": "Un vecteur dans un espace 3D représente une direction et une magnitude, pouvant indiquer un déplacement ou une force."
+        },
+        {
+            "text": "10. Comment une matrice est-elle utilisée en 3D ?",
+            "options": [
+                {
+                    "text": "Pour mesurer les distances",
+                    "value": "a"
+                },
+                {
+                    "text": "Pour effectuer des transformations linéaires",
+                    "value": "b"
+                },
+                {
+                    "text": "Pour générer des axes",
+                    "value": "c"
+                },
+                {
+                    "text": "Pour calculer les volumes",
+                    "value": "d"
+                }
+            ],
+            "correct": "b",
+            "CM": "CM 1.1",
+            "section": "Matrices et vecteurs",
+            "explanation": "Les matrices sont principalement utilisées pour effectuer des transformations linéaires en 3D."
+        },
+        {
+            "text": "11. Quelle transformation une matrice peut-elle représenter ?",
+            "options": [
+                {
+                    "text": "Rotation",
+                    "value": "a"
+                },
+                {
+                    "text": "Translation",
+                    "value": "b"
+                },
+                {
+                    "text": "Échelle",
+                    "value": "c"
+                },
+                {
+                    "text": "Toutes les réponses ci-dessus",
+                    "value": "d"
+                }
+            ],
+            "correct": "d",
+            "CM": "CM 1.1",
+            "section": "Matrices et vecteurs",
+            "explanation": "Une matrice peut représenter des transformations de rotation, translation, mise à l'échelle, et toutes ces opérations combinées."
+        },
+        {
+            "text": "12. Quelle est l'utilité principale des transformations linéaires ?",
+            "options": [
+                {
+                    "text": "Créer des animations 2D",
+                    "value": "a"
+                },
+                {
+                    "text": "Manipuler des objets dans l'espace 3D",
+                    "value": "b"
+                },
+                {
+                    "text": "Ajouter des textures",
+                    "value": "c"
+                },
+                {
+                    "text": "Générer des couleurs",
+                    "value": "d"
+                }
+            ],
+            "correct": "b",
+            "CM": "CM 1.1",
+            "section": "Matrices et vecteurs",
+            "explanation": "Les transformations linéaires permettent de manipuler et déplacer des objets dans l'espace 3D avec précision."
+        },
+        {
+            "text": "13. Quelle application utilise la reconstruction numérique en 3D ?",
+            "options": [
+                {
+                    "text": "Imagerie satellite",
+                    "value": "a"
+                },
+                {
+                    "text": "Ingénierie inverse",
+                    "value": "b"
+                },
+                {
+                    "text": "Tomographie médicale",
+                    "value": "c"
+                },
+                {
+                    "text": "Cartographie de Mars",
+                    "value": "d"
+                }
+            ],
+            "correct": "b",
+            "CM": "CM 1.1",
+            "section": "Applications pratiques",
+            "explanation": "L'ingénierie inverse utilise la reconstruction numérique 3D pour analyser et reproduire des objets existants."
+        },
+        {
+            "text": "14. Quelle technologie est utilisée pour modéliser les villes en 3D ?",
+            "options": [
+                {
+                    "text": "Réalité augmentée",
+                    "value": "a"
+                },
+                {
+                    "text": "BIM (Building Information Modeling)",
+                    "value": "b"
+                },
+                {
+                    "text": "Intelligence artificielle",
+                    "value": "c"
+                },
+                {
+                    "text": "Impression 3D",
+                    "value": "d"
+                }
+            ],
+            "correct": "b",
+            "CM": "CM 1.1",
+            "section": "Applications pratiques",
+            "explanation": "Le BIM (Building Information Modeling) permet de créer des modèles détaillés et interactifs de structures urbaines."
+        },
+        {
+            "text": "15. Dans quel domaine la géométrie 3D est-elle appliquée pour les voitures autonomes ?",
+            "options": [
+                {
+                    "text": "La navigation GPS",
+                    "value": "a"
+                },
+                {
+                    "text": "La reconnaissance faciale",
+                    "value": "b"
+                },
+                {
+                    "text": "La détection d'obstacles",
+                    "value": "c"
+                },
+                {
+                    "text": "La gestion énergétique",
+                    "value": "d"
+                }
+            ],
+            "correct": "c",
+            "CM": "CM 1.1",
+            "section": "Applications pratiques",
+            "explanation": "La détection d'obstacles est cruciale pour la sécurité et la navigation des voitures autonomes."
+        },
+        {
+            "text": "16. Pourquoi la géométrie 3D est-elle cruciale pour les simulations physiques ?",
+            "options": [
+                {
+                    "text": "Pour calculer les résultats d'équations complexes",
+                    "value": "a"
+                },
+                {
+                    "text": "Pour modéliser la topographie et les matériaux",
+                    "value": "b"
+                },
+                {
+                    "text": "Pour réduire les coûts informatiques",
+                    "value": "c"
+                },
+                {
+                    "text": "Pour automatiser les tâches",
+                    "value": "d"
+                }
+            ],
+            "correct": "b",
+            "CM": "CM 1.1",
+            "section": "Applications pratiques",
+            "explanation": "La modélisation topographique et des matériaux permet de simuler précisément des phénomènes physiques complexes."
+        },
+        {
+            "text": "17. Dans un espace 3D, combien d'axes sont présents ?",
+            "options": [
+                {
+                    "text": "2",
+                    "value": "a"
+                },
+                {
+                    "text": "3",
+                    "value": "b"
+                },
+                {
+                    "text": "4",
+                    "value": "c"
+                },
+                {
+                    "text": "6",
+                    "value": "d"
+                }
+            ],
+            "correct": "b",
+            "CM": "CM 1.1",
+            "section": "Divers",
+            "explanation": "Un espace 3D possède trois axes : x, y et z, permettant de représenter des positions et des mouvements dans toutes les directions."
+        },
+        {
+            "text": "18. Que signifie 'cartographie 3D' dans le contexte urbain ?",
+            "options": [
+                {
+                    "text": "Collecter des données GPS",
+                    "value": "a"
+                },
+                {
+                    "text": "Cartographier les structures souterraines",
+                    "value": "b"
+                },
+                {
+                    "text": "Obtenir une meilleure compréhension du paysage urbain",
+                    "value": "c"
+                },
+                {
+                    "text": "Réaliser des analyses financières",
+                    "value": "d"
+                }
+            ],
+            "correct": "c",
+            "CM": "CM 1.1",
+            "section": "Divers",
+            "explanation": "La cartographie 3D urbaine permet une compréhension approfondie de l'environnement urbain et de ses caractéristiques."
+        },
+        {
+            "text": "19. Quelle application de la réalité augmentée est mentionnée ?",
+            "options": [
+                {
+                    "text": "Tester un nouveau canapé dans votre salon",
+                    "value": "a"
+                },
+                {
+                    "text": "Créer des rendus réalistes de paysages",
+                    "value": "b"
+                },
+                {
+                    "text": "Simuler des modèles industriels",
+                    "value": "c"
+                },
+                {
+                    "text": "Analyser des structures historiques",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 1.1",
+            "section": "Divers",
+            "explanation": "La réalité augmentée permet de visualiser des objets virtuels dans un environnement réel, comme tester un nouveau canapé."
+        },
+        {
+            "text": "20. Pourquoi les matrices sont-elles importantes pour les transformations en 3D ?",
+            "options": [
+                {
+                    "text": "Elles permettent de stocker des couleurs",
+                    "value": "a"
+                },
+                {
+                    "text": "Elles modélisent uniquement les objets",
+                    "value": "b"
+                },
+                {
+                    "text": "Elles simplifient les calculs pour les rotations et translations",
+                    "value": "c"
+                },
+                {
+                    "text": "Elles améliorent les textures",
+                    "value": "d"
+                }
+            ],
+            "correct": "c",
+            "CM": "CM 1.1",
+            "section": "Divers",
+            "explanation": "Les matrices simplifient les calculs pour les rotations et translations en 3D."
+        },
+        {
+            "text": "21. Comment définit-on un vecteur en mathématiques ?",
+            "options": [
+                {
+                    "text": "Un segment de droite ayant une longueur fixe",
+                    "value": "a"
+                },
+                {
+                    "text": "Un tableau de nombres organisés en lignes et colonnes",
+                    "value": "b"
+                },
+                {
+                    "text": "Un scalaire représentant une quantité unique",
+                    "value": "c"
+                },
+                {
+                    "text": "Un ensemble ordonné de nombres représentant une direction et une magnitude",
+                    "value": "d"
+                }
+            ],
+            "correct": "d",
+            "CM": "CM 1.2",
+            "section": "Notions fondamentales sur les vecteurs",
+            "explanation": "Un vecteur est un ensemble ordonné de nombres qui décrit une direction et une magnitude dans un espace donné. ex: (x, y, z) en 3D. Chaque composante (x, y, z) indique le déplacement ou l'orientation dans l'espace tridimensionnel. Par exemple, le vecteur (3, 4, 5) signifie un déplacement de 3 unités sur l'axe x, 4 sur l'axe y, et 5 sur l'axe z."
+        },
+        {
+            "text": "22. Comment appelle-t-on un vecteur vertical ?",
+            "options": [
+                {
+                    "text": "Vecteur ligne",
+                    "value": "a"
+                },
+                {
+                    "text": "Matrice",
+                    "value": "b"
+                },
+                {
+                    "text": "Scalaire",
+                    "value": "c"
+                },
+                {
+                    "text": "Vecteur colonne",
+                    "value": "d"
+                }
+            ],
+            "correct": "d",
+            "CM": "CM 1.2",
+            "section": "Notions fondamentales sur les vecteurs",
+            "explanation": "Un vecteur vertical est appelé vecteur colonne car ses composantes sont alignées verticalement."
+        },
+        {
+            "text": "23. Quelle est la magnitude d'un vecteur ?",
+            "options": [
+                {
+                    "text": "Sa direction",
+                    "value": "a"
+                },
+                {
+                    "text": "Son orientation",
+                    "value": "b"
+                },
+                {
+                    "text": "Son origine",
+                    "value": "c"
+                },
+                {
+                    "text": "Sa longueur",
+                    "value": "d"
+                }
+            ],
+            "correct": "d",
+            "CM": "CM 1.2",
+            "section": "Notions fondamentales sur les vecteurs",
+            "explanation": "La magnitude (ou norme) d'un vecteur mesure sa longueur dans l'espace."
+        },
+        {
+            "text": "24. Quel vecteur a une magnitude de 0 ?",
+            "options": [
+                {
+                    "text": "Vecteur unitaire",
+                    "value": "a"
+                },
+                {
+                    "text": "Vecteur colonne",
+                    "value": "b"
+                },
+                {
+                    "text": "Vecteur nul",
+                    "value": "c"
+                },
+                {
+                    "text": "Vecteur normalisé",
+                    "value": "d"
+                }
+            ],
+            "correct": "c",
+            "CM": "CM 1.2",
+            "section": "Notions fondamentales sur les vecteurs",
+            "explanation": "Le vecteur nul a une magnitude de 0 et ne possède pas de direction définie."
+        },
+        {
+            "text": "25. Que représente la transposition d'un vecteur ?",
+            "options": [
+                {
+                    "text": "Inverser l'ordre des éléments",
+                    "value": "a"
+                },
+                {
+                    "text": "Négocier la direction",
+                    "value": "b"
+                },
+                {
+                    "text": "Multiplier par un scalaire",
+                    "value": "c"
+                },
+                {
+                    "text": "Transformer un vecteur ligne en vecteur colonne (ou inversement)",
+                    "value": "d"
+                }
+            ],
+            "correct": "d",
+            "CM": "CM 1.2",
+            "section": "Opérations sur les vecteurs",
+            "explanation": "La transposition transforme un vecteur ligne en vecteur colonne (ou inversement)."
+        },
+        {
+            "text": "26. Comment obtient-on un vecteur opposé ?",
+            "options": [
+                {
+                    "text": "En inversant les axes X et Y",
+                    "value": "a"
+                },
+                {
+                    "text": "En le normalisant",
+                    "value": "b"
+                },
+                {
+                    "text": "En divisant chaque composante par sa magnitude",
+                    "value": "c"
+                },
+                {
+                    "text": "En multipliant chaque composante par -1",
+                    "value": "d"
+                }
+            ],
+            "correct": "d",
+            "CM": "CM 1.2",
+            "section": "Opérations sur les vecteurs",
+            "explanation": "Un vecteur opposé s'obtient en multipliant chaque composante par -1."
+        },
+        {
+            "text": "27. Que signifie normaliser un vecteur ?",
+            "options": [
+                {
+                    "text": "Réduire sa longueur à 1",
+                    "value": "a"
+                },
+                {
+                    "text": "Réduire sa longueur à 0",
+                    "value": "b"
+                },
+                {
+                    "text": "Réduire sa direction à un angle droit",
+                    "value": "c"
+                },
+                {
+                    "text": "Réduire ses composantes à des entiers",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 1.2",
+            "section": "Opérations sur les vecteurs",
+            "explanation": "Normaliser un vecteur signifie réduire sa longueur à 1."
+        },
+        {
+            "text": "28. Le produit scalaire de deux vecteurs donne :",
+            "options": [
+                {
+                    "text": "Un vecteur",
+                    "value": "a"
+                },
+                {
+                    "text": "Une matrice",
+                    "value": "b"
+                },
+                {
+                    "text": "Un scalaire",
+                    "value": "c"
+                },
+                {
+                    "text": "Une direction",
+                    "value": "d"
+                }
+            ],
+            "correct": "c",
+            "CM": "CM 1.2",
+            "section": "Opérations sur les vecteurs",
+            "explanation": "Le produit scalaire de deux vecteurs donne un scalaire."
+        },
+        {
+            "text": "29. Le produit vectoriel de deux vecteurs :",
+            "options": [
+                {
+                    "text": "Donne un vecteur perpendiculaire aux deux vecteurs",
+                    "value": "a"
+                },
+                {
+                    "text": "Donne toujours un scalaire",
+                    "value": "b"
+                },
+                {
+                    "text": "Est commutatif",
+                    "value": "c"
+                },
+                {
+                    "text": "Est défini uniquement en 2D",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 1.2",
+            "section": "Opérations sur les vecteurs",
+            "explanation": "Le produit vectoriel de deux vecteurs donne un vecteur perpendiculaire aux deux vecteurs."
+        },
+        {
+            "text": "30. Que mesure un vecteur vitesse ?",
+            "options": [
+                {
+                    "text": "Une position absolue",
+                    "value": "a"
+                },
+                {
+                    "text": "Une force relative",
+                    "value": "b"
+                },
+                {
+                    "text": "Une grandeur et une direction",
+                    "value": "c"
+                },
+                {
+                    "text": "Un angle",
+                    "value": "d"
+                }
+            ],
+            "correct": "c",
+            "CM": "CM 1.2",
+            "section": "Applications des vecteurs",
+            "explanation": "Un vecteur vitesse représente à la fois rapidité et direction."
+        },
+        {
+            "text": "31. Quelle est l'interprétation géométrique du produit scalaire ?",
+            "options": [
+                {
+                    "text": "La longueur signée de la projection d'un vecteur sur un autre",
+                    "value": "a"
+                },
+                {
+                    "text": "La somme des composants des vecteurs",
+                    "value": "b"
+                },
+                {
+                    "text": "La multiplication des longueurs des deux vecteurs",
+                    "value": "c"
+                },
+                {
+                    "text": "L'aire du parallélogramme formé par les deux vecteurs",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 1.2",
+            "section": "Applications des vecteurs",
+            "explanation": "Le produit scalaire peut être interprété comme la projection d'un vecteur sur un autre."
+        },
+        {
+            "text": "32. Que représente l'aire d'un parallélogramme formé par deux vecteurs ?",
+            "options": [
+                {
+                    "text": "Le produit scalaire des vecteurs",
+                    "value": "a"
+                },
+                {
+                    "text": "La direction des vecteurs",
+                    "value": "b"
+                },
+                {
+                    "text": "La somme des magnitudes des vecteurs",
+                    "value": "c"
+                },
+                {
+                    "text": "La magnitude du produit vectoriel des vecteurs",
+                    "value": "d"
+                }
+            ],
+            "correct": "d",
+            "CM": "CM 1.2",
+            "section": "Applications des vecteurs",
+            "explanation": "L'aire d'un parallélogramme correspond à la magnitude du produit vectoriel."
+        },
+        {
+            "text": "33. Quelle opération permet d'obtenir un vecteur unitaire ?",
+            "options": [
+                {
+                    "text": "Ajouter le vecteur nul",
+                    "value": "a"
+                },
+                {
+                    "text": "Multiplier par un scalaire",
+                    "value": "b"
+                },
+                {
+                    "text": "Diviser par la magnitude",
+                    "value": "c"
+                },
+                {
+                    "text": "Calculer le produit vectoriel",
+                    "value": "d"
+                }
+            ],
+            "correct": "c",
+            "CM": "CM 1.2",
+            "section": "Applications des vecteurs",
+            "explanation": "Un vecteur unitaire s'obtient en divisant par sa magnitude."
+        },
+        {
+            "text": "34. Le produit scalaire de deux vecteurs est nul si :",
+            "options": [
+                {
+                    "text": "Les vecteurs ont la même direction",
+                    "value": "a"
+                },
+                {
+                    "text": "Les vecteurs sont parallèles",
+                    "value": "b"
+                },
+                {
+                    "text": "Les vecteurs sont perpendiculaires",
+                    "value": "c"
+                },
+                {
+                    "text": "Un des vecteurs est nul",
+                    "value": "d"
+                }
+            ],
+            "correct": "c",
+            "CM": "CM 1.2",
+            "section": "Notions avancées",
+            "explanation": "Le produit scalaire est nul lorsque les vecteurs sont perpendiculaires."
+        },
+        {
+            "text": "35. Si deux vecteurs sont de longueur unitaire, le produit scalaire correspond à :",
+            "options": [
+                {
+                    "text": "La somme de leurs longueurs",
+                    "value": "a"
+                },
+                {
+                    "text": "Le sinus de l'angle entre eux",
+                    "value": "b"
+                },
+                {
+                    "text": "Le cosinus de l'angle entre eux",
+                    "value": "c"
+                },
+                {
+                    "text": "Leur direction",
+                    "value": "d"
+                }
+            ],
+            "correct": "c",
+            "CM": "CM 1.2",
+            "section": "Notions avancées",
+            "explanation": "Pour des vecteurs unitaires, le produit scalaire est le cosinus de l'angle entre eux."
+        },
+        {
+            "text": "36. Que signifie la règle de priorité dans les produits scalaire et vectoriel ?",
+            "options": [
+                {
+                    "text": "Le produit scalaire est calculé avant le produit vectoriel",
+                    "value": "a"
+                },
+                {
+                    "text": "Le produit vectoriel est calculé avant le produit scalaire",
+                    "value": "b"
+                },
+                {
+                    "text": "Ils sont toujours calculés simultanément",
+                    "value": "c"
+                },
+                {
+                    "text": "Ils n'ont pas de règles spécifiques",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 1.2",
+            "section": "Notions avancées",
+            "explanation": "Le produit scalaire est calculé avant le produit vectoriel."
+        },
+        {
+            "text": "37. Quelle est la différence fondamentale entre un point et un vecteur ?",
+            "options": [
+                {
+                    "text": "Un point a une direction, un vecteur a une position absolue",
+                    "value": "a"
+                },
+                {
+                    "text": "Les deux sont identiques",
+                    "value": "b"
+                },
+                {
+                    "text": "Un vecteur est un point déplacé d'une unité",
+                    "value": "c"
+                },
+                {
+                    "text": "Un point représente une position, un vecteur un déplacement",
+                    "value": "d"
+                }
+            ],
+            "correct": "d",
+            "CM": "CM 1.2",
+            "section": "Notions avancées",
+            "explanation": "Un point représente une position, un vecteur un déplacement."
+        },
+        {
+            "text": "38. Que se passe-t-il lorsqu'un vecteur est multiplié par un scalaire négatif ?",
+            "options": [
+                {
+                    "text": "Sa direction est inversée",
+                    "value": "a"
+                },
+                {
+                    "text": "Sa magnitude devient nulle",
+                    "value": "b"
+                },
+                {
+                    "text": "Il devient un vecteur unitaire",
+                    "value": "c"
+                },
+                {
+                    "text": "Sa projection disparaît",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 1.2",
+            "section": "Concepts géométriques",
+            "explanation": "Multiplier un vecteur par un scalaire négatif inverse sa direction."
+        },
+        {
+            "text": "39. Dans quel système de coordonnées un produit vectoriel 'pointe vers vous' lorsque a x b est appliqué ?",
+            "options": [
+                {
+                    "text": "Système droitier",
+                    "value": "a"
+                },
+                {
+                    "text": "Système gaucher",
+                    "value": "b"
+                },
+                {
+                    "text": "Système polaire",
+                    "value": "c"
+                },
+                {
+                    "text": "Système cartésien",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 1.2",
+            "section": "Concepts géométriques",
+            "explanation": "Dans un système droitier, le produit vectoriel 'pointe vers vous'."
+        },
+        {
+            "text": "40. En termes de transformation, qu'est-ce que la soustraction de deux vecteurs ?",
+            "options": [
+                {
+                    "text": "Une addition commutative",
+                    "value": "a"
+                },
+                {
+                    "text": "Une rotation",
+                    "value": "b"
+                },
+                {
+                    "text": "Un déplacement relatif",
+                    "value": "c"
+                },
+                {
+                    "text": "Une opération non définie",
+                    "value": "d"
+                }
+            ],
+            "correct": "c",
+            "CM": "CM 1.2",
+            "section": "Concepts géométriques",
+            "explanation": "La soustraction de vecteurs représente un déplacement relatif."
+        },
+        {
+            "text": "41. Comment une matrice est-elle définie en algèbre linéaire ?",
+            "options": [
+                {
+                    "text": "Comme un tableau à une dimension de nombres",
+                    "value": "a"
+                },
+                {
+                    "text": "Comme une transformation affine",
+                    "value": "b"
+                },
+                {
+                    "text": "Comme une équation algébrique",
+                    "value": "c"
+                },
+                {
+                    "text": "Comme un tableau rectangulaire de nombres",
+                    "value": "d"
+                }
+            ],
+            "correct": "d",
+            "CM": "CM 2.1",
+            "section": "Bases des matrices",
+            "explanation": "Une matrice est un tableau rectangulaire de nombres organisé en lignes et colonnes."
+        },
+        {
+            "text": "42. Une matrice avec r lignes et c colonnes est de taille :",
+            "options": [
+                {
+                    "text": "r + c",
+                    "value": "a"
+                },
+                {
+                    "text": "r^c",
+                    "value": "b"
+                },
+                {
+                    "text": "r × c",
+                    "value": "c"
+                },
+                {
+                    "text": "c/r",
+                    "value": "d"
+                }
+            ],
+            "correct": "c",
+            "CM": "CM 2.1",
+            "section": "Bases des matrices",
+            "explanation": "La taille d'une matrice est notée r × c, où r est le nombre de lignes et c le nombre de colonnes."
+        },
+        {
+            "text": "43. Que représente l'élément m_{ij} dans une matrice M ?",
+            "options": [
+                {
+                    "text": "La somme des valeurs dans la ligne i",
+                    "value": "a"
+                },
+                {
+                    "text": "La valeur de la i-ème ligne et j-ème colonne",
+                    "value": "b"
+                },
+                {
+                    "text": "La diagonale principale",
+                    "value": "c"
+                },
+                {
+                    "text": "La transposition de M",
+                    "value": "d"
+                }
+            ],
+            "correct": "b",
+            "CM": "CM 2.1",
+            "section": "Bases des matrices",
+            "explanation": "L'élément m_{ij} représente la valeur à l'intersection de la i-ème ligne et j-ème colonne."
+        },
+        {
+            "text": "44. Quelle est la particularité d'une matrice carrée ?",
+            "options": [
+                {
+                    "text": "Elle a un nombre égal de lignes et de colonnes",
+                    "value": "a"
+                },
+                {
+                    "text": "Tous ses éléments sont égaux",
+                    "value": "b"
+                },
+                {
+                    "text": "Elle ne peut être multipliée que par un scalaire",
+                    "value": "c"
+                },
+                {
+                    "text": "Elle est toujours symétrique",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.1",
+            "section": "Bases des matrices",
+            "explanation": "Une matrice carrée a un nombre égal de lignes et de colonnes."
+        },
+        {
+            "text": "45. Qu'est-ce qu'une matrice identité ?",
+            "options": [
+                {
+                    "text": "Une matrice nulle",
+                    "value": "a"
+                },
+                {
+                    "text": "Une matrice carrée avec des 1 sur la diagonale et des 0 ailleurs",
+                    "value": "b"
+                },
+                {
+                    "text": "Une matrice qui inverse une autre matrice",
+                    "value": "c"
+                },
+                {
+                    "text": "Une matrice avec des colonnes identiques",
+                    "value": "d"
+                }
+            ],
+            "correct": "b",
+            "CM": "CM 2.1",
+            "section": "Types de matrices",
+            "explanation": "Une matrice identité est une matrice carrée avec des 1 sur la diagonale et des 0 ailleurs."
+        },
+        {
+            "text": "46. La transposition d'une matrice consiste à :",
+            "options": [
+                {
+                    "text": "Échanger ses lignes et colonnes",
+                    "value": "a"
+                },
+                {
+                    "text": "Multiplier chaque élément par -1",
+                    "value": "b"
+                },
+                {
+                    "text": "Réduire sa taille de moitié",
+                    "value": "c"
+                },
+                {
+                    "text": "Ajouter une ligne et une colonne supplémentaires",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.1",
+            "section": "Types de matrices",
+            "explanation": "La transposition d'une matrice consiste à échanger ses lignes et colonnes."
+        },
+        {
+            "text": "47. Que se passe-t-il lorsqu'on multiplie une matrice par un scalaire ?",
+            "options": [
+                {
+                    "text": "Modifier sa taille",
+                    "value": "a"
+                },
+                {
+                    "text": "Supprimer ses éléments diagonaux",
+                    "value": "b"
+                },
+                {
+                    "text": "Inverser ses lignes et colonnes",
+                    "value": "c"
+                },
+                {
+                    "text": "Multiplier tous les éléments par ce scalaire",
+                    "value": "d"
+                }
+            ],
+            "correct": "d",
+            "CM": "CM 2.1",
+            "section": "Types de matrices",
+            "explanation": "Multiplier une matrice par un scalaire multiplie tous les éléments par ce scalaire."
+        },
+        {
+            "text": "48. Deux matrices A et B peuvent être multipliées si :",
+            "options": [
+                {
+                    "text": "A et B sont carrées",
+                    "value": "a"
+                },
+                {
+                    "text": "Le nombre de lignes de A est égal au nombre de colonnes de B",
+                    "value": "b"
+                },
+                {
+                    "text": "Le nombre de colonnes de A est égal au nombre de lignes de B",
+                    "value": "c"
+                },
+                {
+                    "text": "Elles ont les mêmes dimensions",
+                    "value": "d"
+                }
+            ],
+            "correct": "c",
+            "CM": "CM 2.1",
+            "section": "Multiplication de matrices",
+            "explanation": "Deux matrices A et B peuvent être multipliées si le nombre de colonnes de A est égal au nombre de lignes de B."
+        },
+        {
+            "text": "49. La multiplication matricielle est :",
+            "options": [
+                {
+                    "text": "Associative mais non commutative",
+                    "value": "a"
+                },
+                {
+                    "text": "Commutative mais non associative",
+                    "value": "b"
+                },
+                {
+                    "text": "Ni associative ni commutative",
+                    "value": "c"
+                },
+                {
+                    "text": "Associative et commutative",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.1",
+            "section": "Multiplication de matrices",
+            "explanation": "La multiplication matricielle est associative mais non commutative."
+        },
+        {
+            "text": "50. Que représente chaque élément c_{ij} d'une matrice C = AB ?",
+            "options": [
+                {
+                    "text": "La somme des éléments de la ligne i de A",
+                    "value": "a"
+                },
+                {
+                    "text": "La diagonale principale de B",
+                    "value": "b"
+                },
+                {
+                    "text": "La transposition de A",
+                    "value": "c"
+                },
+                {
+                    "text": "Le produit scalaire de la ligne i de A et de la colonne j de B",
+                    "value": "d"
+                }
+            ],
+            "correct": "d",
+            "CM": "CM 2.1",
+            "section": "Multiplication de matrices",
+            "explanation": "Chaque élément c_{ij} d'une matrice C = AB représente le produit scalaire de la ligne i de A et de la colonne j de B."
+        },
+        {
+            "text": "51. Une transformation linéaire conserve :",
+            "options": [
+                {
+                    "text": "Les longueurs et les angles",
+                    "value": "a"
+                },
+                {
+                    "text": "Toutes les propriétés géométriques",
+                    "value": "b"
+                },
+                {
+                    "text": "Les aires et les volumes",
+                    "value": "c"
+                },
+                {
+                    "text": "Les lignes droites et le parallélisme",
+                    "value": "d"
+                }
+            ],
+            "correct": "d",
+            "CM": "CM 2.1",
+            "section": "Interprétation géométrique",
+            "explanation": "Une transformation linéaire conserve les lignes droites et le parallélisme."
+        },
+        {
+            "text": "52. Que se passe-t-il lorsqu'on applique une rotation via une matrice ?",
+            "options": [
+                {
+                    "text": "Les distances et les angles sont modifiés",
+                    "value": "a"
+                },
+                {
+                    "text": "L'objet est réfléchi autour d'un axe",
+                    "value": "b"
+                },
+                {
+                    "text": "Les distances et les angles sont préservés",
+                    "value": "c"
+                },
+                {
+                    "text": "La forme est mise à l'échelle",
+                    "value": "d"
+                }
+            ],
+            "correct": "c",
+            "CM": "CM 2.1",
+            "section": "Interprétation géométrique",
+            "explanation": "Une rotation via matrice préserve les distances et les angles."
+        },
+        {
+            "text": "53. Une projection orthographique :",
+            "options": [
+                {
+                    "text": "Préserve la profondeur",
+                    "value": "a"
+                },
+                {
+                    "text": "Est une transformation bijective",
+                    "value": "b"
+                },
+                {
+                    "text": "Projette en 2D en perdant la profondeur",
+                    "value": "c"
+                },
+                {
+                    "text": "Modifie les angles mais pas les longueurs",
+                    "value": "d"
+                }
+            ],
+            "correct": "c",
+            "CM": "CM 2.1",
+            "section": "Interprétation géométrique",
+            "explanation": "Une projection orthographique projette en 2D en perdant la profondeur."
+        },
+        {
+            "text": "54. Lors d'un cisaillement, quelle propriété est conservée ?",
+            "options": [
+                {
+                    "text": "La profondeur",
+                    "value": "a"
+                },
+                {
+                    "text": "Le parallélisme",
+                    "value": "b"
+                },
+                {
+                    "text": "Les angles",
+                    "value": "c"
+                },
+                {
+                    "text": "Les distances",
+                    "value": "d"
+                }
+            ],
+            "correct": "b",
+            "CM": "CM 2.1",
+            "section": "Interprétation géométrique",
+            "explanation": "Lors d'un cisaillement, le parallélisme est conservé."
+        },
+        {
+            "text": "55. Quelle est la relation entre les colonnes d'une matrice et les vecteurs de base ?",
+            "options": [
+                {
+                    "text": "Les colonnes sont indépendantes des vecteurs de base",
+                    "value": "a"
+                },
+                {
+                    "text": "Chaque colonne représente un vecteur transformé par la matrice",
+                    "value": "b"
+                },
+                {
+                    "text": "Les colonnes sont identiques aux vecteurs de base",
+                    "value": "c"
+                },
+                {
+                    "text": "Les colonnes ne jouent aucun rôle dans les transformations",
+                    "value": "d"
+                }
+            ],
+            "correct": "b",
+            "CM": "CM 2.1",
+            "section": "Propriétés avancées",
+            "explanation": "Chaque colonne d'une matrice représente un vecteur transformé par la matrice."
+        },
+        {
+            "text": "56. Si une matrice est multipliée par un vecteur, le résultat est :",
+            "options": [
+                {
+                    "text": "Toujours un scalaire",
+                    "value": "a"
+                },
+                {
+                    "text": "Une matrice transposée",
+                    "value": "b"
+                },
+                {
+                    "text": "Un produit vectoriel",
+                    "value": "c"
+                },
+                {
+                    "text": "Une combinaison linéaire des colonnes de la matrice",
+                    "value": "d"
+                }
+            ],
+            "correct": "d",
+            "CM": "CM 2.1",
+            "section": "Propriétés avancées",
+            "explanation": "La multiplication d'une matrice par un vecteur produit une combinaison linéaire des colonnes."
+        },
+        {
+            "text": "57. Comment construit-on une matrice pour une transformation donnée ?",
+            "options": [
+                {
+                    "text": "En utilisant uniquement des rotations",
+                    "value": "a"
+                },
+                {
+                    "text": "En additionnant des matrices carrées",
+                    "value": "b"
+                },
+                {
+                    "text": "En transposant une matrice identité",
+                    "value": "c"
+                },
+                {
+                    "text": "En appliquant la transformation aux vecteurs de base",
+                    "value": "d"
+                }
+            ],
+            "correct": "d",
+            "CM": "CM 2.1",
+            "section": "Propriétés avancées",
+            "explanation": "On construit une matrice de transformation en appliquant la transformation aux vecteurs de base."
+        },
+        {
+            "text": "58. Quelles transformations une matrice carrée peut-elle décrire ?",
+            "options": [
+                {
+                    "text": "Uniquement des rotations",
+                    "value": "a"
+                },
+                {
+                    "text": "Des transformations linéaires",
+                    "value": "b"
+                },
+                {
+                    "text": "Des translations",
+                    "value": "c"
+                },
+                {
+                    "text": "Des transformations non linéaires",
+                    "value": "d"
+                }
+            ],
+            "correct": "b",
+            "CM": "CM 2.1",
+            "section": "Concepts spécifiques",
+            "explanation": "Une matrice carrée peut représenter des transformations linéaires."
+        },
+        {
+            "text": "59. Que se passe-t-il si une matrice identité est multipliée par une autre matrice M ?",
+            "options": [
+                {
+                    "text": "Les éléments de M sont doublés",
+                    "value": "a"
+                },
+                {
+                    "text": "M reste inchangée",
+                    "value": "b"
+                },
+                {
+                    "text": "M est transposée",
+                    "value": "c"
+                },
+                {
+                    "text": "Les colonnes de M deviennent des lignes",
+                    "value": "d"
+                }
+            ],
+            "correct": "b",
+            "CM": "CM 2.1",
+            "section": "Concepts spécifiques",
+            "explanation": "Multiplier par la matrice identité laisse la matrice inchangée."
+        },
+        {
+            "text": "60. Quel type de transformation peut être visualisé avec une matrice 3×3 ?",
+            "options": [
+                {
+                    "text": "Une translation",
+                    "value": "a"
+                },
+                {
+                    "text": "Une rotation ou un cisaillement",
+                    "value": "b"
+                },
+                {
+                    "text": "Une projection non linéaire",
+                    "value": "c"
+                },
+                {
+                    "text": "Une transformation non définie",
+                    "value": "d"
+                }
+            ],
+            "correct": "b",
+            "CM": "CM 2.1",
+            "section": "Concepts spécifiques",
+            "explanation": "Une matrice 3×3 peut représenter rotation ou cisaillement."
+        },
+        {
+            "text": "61. En 2D, comment la rotation est-elle définie ?",
+            "options": [
+                {
+                    "text": "Par un vecteur",
+                    "value": "a"
+                },
+                {
+                    "text": "Par un angle θ",
+                    "value": "b"
+                },
+                {
+                    "text": "Par une matrice diagonale",
+                    "value": "c"
+                },
+                {
+                    "text": "Par une translation",
+                    "value": "d"
+                }
+            ],
+            "correct": "b",
+            "CM": "CM 2.2",
+            "section": "Rotations",
+            "explanation": "En 2D, une rotation est définie par un angle θ autour de l'origine."
+        },
+        {
+            "text": "62. En mathématiques, quel sens de rotation est considéré comme positif ?",
+            "options": [
+                {
+                    "text": "Horaire",
+                    "value": "a"
+                },
+                {
+                    "text": "Sens défini par l'axe z",
+                    "value": "b"
+                },
+                {
+                    "text": "Sens arbitraire",
+                    "value": "c"
+                },
+                {
+                    "text": "Anti-horaire",
+                    "value": "d"
+                }
+            ],
+            "correct": "d",
+            "CM": "CM 2.2",
+            "section": "Rotations",
+            "explanation": "En mathématiques, une rotation dans le sens anti-horaire est positive."
+        },
+        {
+            "text": "63. Quel type de matrice est utilisé pour effectuer une rotation en 2D ?",
+            "options": [
+                {
+                    "text": "Matrice carrée orthogonale",
+                    "value": "a"
+                },
+                {
+                    "text": "Matrice identité",
+                    "value": "b"
+                },
+                {
+                    "text": "Matrice triangulaire",
+                    "value": "c"
+                },
+                {
+                    "text": "Matrice non orthogonale",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.2",
+            "section": "Rotations",
+            "explanation": "Une matrice orthogonale conserve les angles et les distances, essentielle pour la rotation."
+        },
+        {
+            "text": "64. Que conserve une rotation en 3D ?",
+            "options": [
+                {
+                    "text": "Les angles et les distances",
+                    "value": "a"
+                },
+                {
+                    "text": "Les longueurs seulement",
+                    "value": "b"
+                },
+                {
+                    "text": "Les volumes uniquement",
+                    "value": "c"
+                },
+                {
+                    "text": "Les surfaces uniquement",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.2",
+            "section": "Rotations",
+            "explanation": "Les rotations conservent les angles et les distances, ce qui préserve la forme des objets."
+        },
+        {
+            "text": "65. Une matrice de rotation 3D autour d'un axe arbitraire est obtenue :",
+            "options": [
+                {
+                    "text": "Par projection sur un axe",
+                    "value": "a"
+                },
+                {
+                    "text": "En combinant une mise à l'échelle",
+                    "value": "b"
+                },
+                {
+                    "text": "Par une simple transposition",
+                    "value": "c"
+                },
+                {
+                    "text": "Par décomposition en composants parallèles et perpendiculaires",
+                    "value": "d"
+                }
+            ],
+            "correct": "d",
+            "CM": "CM 2.2",
+            "section": "Rotations",
+            "explanation": "Pour obtenir une rotation autour d'un axe arbitraire, on décompose le vecteur en composants parallèles et perpendiculaires."
+        },
+        {
+            "text": "66. Qu'est-ce qu'une mise à l'échelle uniforme ?",
+            "options": [
+                {
+                    "text": "Une échelle appliquée à une seule direction",
+                    "value": "a"
+                },
+                {
+                    "text": "Une échelle qui conserve les angles et les proportions",
+                    "value": "b"
+                },
+                {
+                    "text": "Une échelle qui modifie les volumes de manière asymétrique",
+                    "value": "c"
+                },
+                {
+                    "text": "Une échelle qui modifie les longueurs mais conserve les surfaces",
+                    "value": "d"
+                }
+            ],
+            "correct": "b",
+            "CM": "CM 2.2",
+            "section": "Échelle",
+            "explanation": "Une mise à l'échelle uniforme conserve les angles et les proportions en agrandissant ou en réduisant l'objet de manière uniforme."
+        },
+        {
+            "text": "67. Lors d'une mise à l'échelle uniforme, que se passe-t-il si le facteur d'échelle k = 0 ?",
+            "options": [
+                {
+                    "text": "L'objet devient une projection orthographique",
+                    "value": "a"
+                },
+                {
+                    "text": "L'objet est réfléchi",
+                    "value": "b"
+                },
+                {
+                    "text": "L'objet est étiré dans une direction",
+                    "value": "c"
+                },
+                {
+                    "text": "L'objet conserve ses proportions",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.2",
+            "section": "Échelle",
+            "explanation": "Un facteur d'échelle k = 0 aplati l'objet dans une direction, ce qui équivaut à une projection orthographique."
+        },
+        {
+            "text": "68. Que conserve une transformation linéaire ?",
+            "options": [
+                {
+                    "text": "Les lignes droites et le parallélisme",
+                    "value": "a"
+                },
+                {
+                    "text": "Les volumes uniquement",
+                    "value": "b"
+                },
+                {
+                    "text": "Les angles uniquement",
+                    "value": "c"
+                },
+                {
+                    "text": "Les proportions des surfaces",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.2",
+            "section": "Transformations linéaires",
+            "explanation": "Les transformations linéaires conservent les lignes droites et le parallélisme."
+        },
+        {
+            "text": "69. Qu'est-ce qu'une transformation affine ?",
+            "options": [
+                {
+                    "text": "Une transformation linéaire combinée à une translation",
+                    "value": "a"
+                },
+                {
+                    "text": "Une transformation qui conserve uniquement les longueurs",
+                    "value": "b"
+                },
+                {
+                    "text": "Une transformation qui modifie les angles",
+                    "value": "c"
+                },
+                {
+                    "text": "Une transformation qui ne contient pas de rotation",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.2",
+            "section": "Transformations affines",
+            "explanation": "Une transformation affine combine une transformation linéaire (comme une rotation ou une mise à l'échelle) avec une translation."
+        },
+        {
+            "text": "70. Une transformation rigide modifie :",
+            "options": [
+                {
+                    "text": "La position et l'orientation d'un objet",
+                    "value": "a"
+                },
+                {
+                    "text": "Les angles, mais pas les volumes",
+                    "value": "b"
+                },
+                {
+                    "text": "Les proportions et les surfaces",
+                    "value": "c"
+                },
+                {
+                    "text": "Les longueurs seulement",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.2",
+            "section": "Transformations rigides",
+            "explanation": "Les transformations rigides modifient uniquement la position et l'orientation d'un objet, sans changer sa forme ou ses dimensions."
+        },
+        {
+            "text": "71. En 2D, une rotation est définie par quel paramètre principal ?",
+            "options": [
+                {
+                    "text": "Un vecteur de direction.",
+                    "value": "a"
+                },
+                {
+                    "text": "Un angle θ.",
+                    "value": "b"
+                },
+                {
+                    "text": "Une translation sur l'axe des x.",
+                    "value": "c"
+                },
+                {
+                    "text": "Une mise à l’échelle uniforme.",
+                    "value": "d"
+                }
+            ],
+            "correct": "b",
+            "CM": "CM 2.2",
+            "section": "Rotations en 2D",
+            "explanation": "Une rotation en 2D est définie par un angle θ, qui détermine l’amplitude et le sens de la rotation."
+        },
+        {
+            "text": "72. Quel type de matrice est utilisé pour effectuer une rotation en 2D ?",
+            "options": [
+                {
+                    "text": "Une matrice diagonale.",
+                    "value": "a"
+                },
+                {
+                    "text": "Une matrice orthogonale.",
+                    "value": "b"
+                },
+                {
+                    "text": "Une matrice triangulaire supérieure.",
+                    "value": "c"
+                },
+                {
+                    "text": "Une matrice d'identité.",
+                    "value": "d"
+                }
+            ],
+            "correct": "b",
+            "CM": "CM 2.2",
+            "section": "Rotations en 2D",
+            "explanation": "Les rotations en 2D sont décrites par des matrices orthogonales qui conservent les distances et les angles."
+        },
+        {
+            "text": "73. Une mise à l’échelle uniforme d’un facteur k affecte un objet de quelle manière ?",
+            "options": [
+                {
+                    "text": "Elle le déforme de façon asymétrique.",
+                    "value": "a"
+                },
+                {
+                    "text": "Elle conserve ses proportions et modifie ses dimensions de façon homogène.",
+                    "value": "b"
+                },
+                {
+                    "text": "Elle modifie uniquement la largeur.",
+                    "value": "c"
+                },
+                {
+                    "text": "Elle projette l’objet sur un plan.",
+                    "value": "d"
+                }
+            ],
+            "correct": "b",
+            "CM": "CM 2.2",
+            "section": "Mise à l’échelle",
+            "explanation": "Une mise à l’échelle uniforme modifie toutes les dimensions d’un objet dans la même proportion, sans altérer ses proportions."
+        },
+        {
+            "text": "74. Comment modélise-t-on une mise à l’échelle non uniforme ?",
+            "options": [
+                {
+                    "text": "En appliquant des facteurs d’échelle différents sur chaque axe.",
+                    "value": "a"
+                },
+                {
+                    "text": "En utilisant une matrice identité.",
+                    "value": "b"
+                },
+                {
+                    "text": "En combinant rotation et translation.",
+                    "value": "c"
+                },
+                {
+                    "text": "En utilisant uniquement des matrices triangulaires.",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.2",
+            "section": "Mise à l’échelle",
+            "explanation": "Une mise à l’échelle non uniforme applique des facteurs d’échelle différents sur chaque axe, modifiant ainsi la forme sans conserver les proportions initiales."
+        },
+        {
+            "text": "75. Quelle transformation permet de changer l’orientation d’un objet ?",
+            "options": [
+                {
+                    "text": "Une rotation.",
+                    "value": "a"
+                },
+                {
+                    "text": "Une translation.",
+                    "value": "b"
+                },
+                {
+                    "text": "Une mise à l’échelle uniforme.",
+                    "value": "c"
+                },
+                {
+                    "text": "Une projection orthogonale.",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.2",
+            "section": "Transformations linéaires",
+            "explanation": "Une rotation modifie l’orientation d’un objet en le faisant pivoter autour d’un point ou d’un axe."
+        },
+        {
+            "text": "76. En 3D, une rotation est réalisée autour de quel élément ?",
+            "options": [
+                {
+                    "text": "Un point fixe.",
+                    "value": "a"
+                },
+                {
+                    "text": "Un axe.",
+                    "value": "b"
+                },
+                {
+                    "text": "Une matrice triangulaire.",
+                    "value": "c"
+                },
+                {
+                    "text": "Une translation.",
+                    "value": "d"
+                }
+            ],
+            "correct": "b",
+            "CM": "CM 2.2",
+            "section": "Rotations en 3D",
+            "explanation": "Contrairement aux rotations 2D qui tournent autour d’un point, les rotations 3D s’effectuent autour d’un axe."
+        },
+        {
+            "text": "77. Une matrice de transformation linéaire préserve :",
+            "options": [
+                {
+                    "text": "Les proportions et les angles.",
+                    "value": "a"
+                },
+                {
+                    "text": "Uniquement les distances.",
+                    "value": "b"
+                },
+                {
+                    "text": "Uniquement les surfaces.",
+                    "value": "c"
+                },
+                {
+                    "text": "Les translations.",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.2",
+            "section": "Transformations linéaires",
+            "explanation": "Les transformations linéaires conservent les lignes droites, les proportions et parfois les angles, selon le type de transformation."
+        },
+        {
+            "text": "78. Quelle transformation n’est pas une transformation linéaire ?",
+            "options": [
+                {
+                    "text": "Une rotation.",
+                    "value": "a"
+                },
+                {
+                    "text": "Une translation.",
+                    "value": "b"
+                },
+                {
+                    "text": "Une mise à l’échelle uniforme.",
+                    "value": "c"
+                },
+                {
+                    "text": "Un cisaillement.",
+                    "value": "d"
+                }
+            ],
+            "correct": "b",
+            "CM": "CM 2.2",
+            "section": "Transformations linéaires",
+            "explanation": "Une translation n’est pas une transformation linéaire car elle ne passe pas par l’origine et ne conserve pas nécessairement les proportions."
+        },
+        {
+            "text": "79. Quel est le rôle d'une projection orthogonale ?",
+            "options": [
+                {
+                    "text": "Réduire les dimensions d’un objet en supprimant une composante.",
+                    "value": "a"
+                },
+                {
+                    "text": "Modifier la taille d’un objet sans altérer sa forme.",
+                    "value": "b"
+                },
+                {
+                    "text": "Tourner un objet autour d’un axe spécifique.",
+                    "value": "c"
+                },
+                {
+                    "text": "Ajouter une profondeur supplémentaire à un objet 2D.",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.2",
+            "section": "Transformations linéaires",
+            "explanation": "Une projection orthogonale projette un objet sur un plan, ce qui réduit ses dimensions et supprime une composante spatiale."
+        },
+        {
+            "text": "80. Comment combine-t-on plusieurs transformations en une seule ?",
+            "options": [
+                {
+                    "text": "En multipliant les matrices de transformation dans l’ordre des opérations.",
+                    "value": "a"
+                },
+                {
+                    "text": "En appliquant chaque transformation individuellement.",
+                    "value": "b"
+                },
+                {
+                    "text": "En additionnant les matrices de transformation.",
+                    "value": "c"
+                },
+                {
+                    "text": "En utilisant une matrice identité.",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.2",
+            "section": "Composition des transformations",
+            "explanation": "La composition des transformations se fait par multiplication matricielle, en respectant l’ordre des opérations."
+        },
+        {
+            "text": "81. Quelle est la quatrième composante d’un vecteur en 4D utilisée dans les matrices homogènes ?",
+            "options": [
+                {
+                    "text": "La coordonnée homogène w.",
+                    "value": "a"
+                },
+                {
+                    "text": "Une dimension temporelle.",
+                    "value": "b"
+                },
+                {
+                    "text": "Un facteur d’échelle.",
+                    "value": "c"
+                },
+                {
+                    "text": "Un décalage en profondeur.",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.3",
+            "section": "Matrices homogènes",
+            "explanation": "La coordonnée homogène w est utilisée pour représenter des points en coordonnées homogènes, permettant la division perspective."
+        },
+        {
+            "text": "82. Que se passe-t-il lorsqu’un point 4D a une coordonnée w = 0 ?",
+            "options": [
+                {
+                    "text": "Le point représente une direction plutôt qu’une position.",
+                    "value": "a"
+                },
+                {
+                    "text": "Le point est projeté à l’origine.",
+                    "value": "b"
+                },
+                {
+                    "text": "Le point disparaît de l’espace 3D.",
+                    "value": "c"
+                },
+                {
+                    "text": "Le point est multiplié par la matrice identité.",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.3",
+            "section": "Matrices homogènes",
+            "explanation": "Lorsque w = 0, le point est considéré comme un point à l’infini, représentant une direction sans position fixe."
+        },
+        {
+            "text": "83. Pourquoi utilise-t-on des matrices 4×4 en 3D ?",
+            "options": [
+                {
+                    "text": "Pour inclure les translations dans les transformations matricielles.",
+                    "value": "a"
+                },
+                {
+                    "text": "Pour rendre les calculs plus complexes.",
+                    "value": "b"
+                },
+                {
+                    "text": "Parce qu’il est impossible de représenter des rotations en 3D autrement.",
+                    "value": "c"
+                },
+                {
+                    "text": "Pour conserver l’orientation des axes.",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.3",
+            "section": "Matrices homogènes",
+            "explanation": "Les matrices 4×4 permettent d’intégrer les translations dans les transformations matricielles, ce qui n’est pas possible avec des matrices 3×3."
+        },
+        {
+            "text": "84. Quelle transformation est possible grâce aux matrices homogènes mais pas avec les matrices 3×3 ?",
+            "options": [
+                {
+                    "text": "La translation.",
+                    "value": "a"
+                },
+                {
+                    "text": "La rotation.",
+                    "value": "b"
+                },
+                {
+                    "text": "La mise à l’échelle uniforme.",
+                    "value": "c"
+                },
+                {
+                    "text": "Le cisaillement.",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.3",
+            "section": "Matrices homogènes",
+            "explanation": "Les matrices homogènes 4×4 permettent d’intégrer la translation, ce qui n’est pas possible avec des matrices 3×3 classiques."
+        },
+        {
+            "text": "85. Quel est l’intérêt de la division homogène en 3D ?",
+            "options": [
+                {
+                    "text": "Elle permet d’obtenir une projection en perspective.",
+                    "value": "a"
+                },
+                {
+                    "text": "Elle réduit le nombre de dimensions d’un espace.",
+                    "value": "b"
+                },
+                {
+                    "text": "Elle normalise les vecteurs.",
+                    "value": "c"
+                },
+                {
+                    "text": "Elle supprime les erreurs numériques.",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.3",
+            "section": "Projection perspective",
+            "explanation": "La division homogène permet d’obtenir des coordonnées projetées en perspective, rendant les objets plus petits à mesure qu’ils s’éloignent."
+        },
+        {
+            "text": "86. Quelle transformation affine peut être réalisée grâce aux matrices homogènes ?",
+            "options": [
+                {
+                    "text": "Une rotation autour d’un axe qui ne passe pas par l’origine.",
+                    "value": "a"
+                },
+                {
+                    "text": "Une projection parallèle sans perspective.",
+                    "value": "b"
+                },
+                {
+                    "text": "Une inversion de coordonnées.",
+                    "value": "c"
+                },
+                {
+                    "text": "Une suppression de dimensions.",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.3",
+            "section": "Transformations affines",
+            "explanation": "Les matrices homogènes permettent d’appliquer des transformations affines comme une rotation autour d’un axe qui ne passe pas par l’origine."
+        },
+        {
+            "text": "87. Qu’est-ce qu’un centre de projection en perspective ?",
+            "options": [
+                {
+                    "text": "Un point où tous les rayons projetés se croisent.",
+                    "value": "a"
+                },
+                {
+                    "text": "Un plan sur lequel on projette des objets.",
+                    "value": "b"
+                },
+                {
+                    "text": "Une transformation qui supprime les translations.",
+                    "value": "c"
+                },
+                {
+                    "text": "Un paramètre qui ajuste la taille des objets.",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.3",
+            "section": "Projection perspective",
+            "explanation": "Le centre de projection est le point à partir duquel tous les rayons convergent lors d’une projection en perspective."
+        },
+        {
+            "text": "88. Comment les matrices homogènes facilitent-elles la projection en perspective ?",
+            "options": [
+                {
+                    "text": "En appliquant une transformation qui encode la division perspective en w.",
+                    "value": "a"
+                },
+                {
+                    "text": "En supprimant les coordonnées z.",
+                    "value": "b"
+                },
+                {
+                    "text": "En projetant directement sur un plan orthogonal.",
+                    "value": "c"
+                },
+                {
+                    "text": "En gardant les lignes parallèles.",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.3",
+            "section": "Projection perspective",
+            "explanation": "Les matrices homogènes permettent d’encoder la division perspective en w, ce qui facilite la projection en perspective."
+        },
+        {
+            "text": "89. Quelle est la différence entre une projection orthographique et une projection en perspective ?",
+            "options": [
+                {
+                    "text": "La perspective réduit la taille des objets éloignés, alors que l’orthographique garde une échelle constante.",
+                    "value": "a"
+                },
+                {
+                    "text": "La projection orthographique ne fonctionne pas en 3D.",
+                    "value": "b"
+                },
+                {
+                    "text": "La projection en perspective est toujours plus précise.",
+                    "value": "c"
+                },
+                {
+                    "text": "Les projections orthographiques ne nécessitent pas de matrices homogènes.",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.3",
+            "section": "Projection perspective",
+            "explanation": "La projection perspective réduit la taille des objets éloignés, contrairement à la projection orthographique qui conserve les proportions."
+        },
+        {
+            "text": "90. Pourquoi utilise-t-on les matrices homogènes dans les pipelines graphiques ?",
+            "options": [
+                {
+                    "text": "Pour combiner plusieurs transformations en une seule multiplication matricielle.",
+                    "value": "a"
+                },
+                {
+                    "text": "Pour éviter les transformations de rotation.",
+                    "value": "b"
+                },
+                {
+                    "text": "Pour supprimer les effets de perspective.",
+                    "value": "c"
+                },
+                {
+                    "text": "Pour ne travailler qu’en 2D.",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.3",
+            "section": "Matrices homogènes",
+            "explanation": "Les matrices homogènes permettent de combiner rotations, translations et projections dans un pipeline graphique en une seule opération matricielle."
+        },
+        {
+            "text": "91. Quel est l'avantage principal de l'utilisation des coordonnées homogènes ?",
+            "options": [
+                {
+                    "text": "Elles permettent d'effectuer des transformations affines en utilisant des matrices 4×4.",
+                    "value": "a"
+                },
+                {
+                    "text": "Elles réduisent le nombre de dimensions nécessaires aux calculs.",
+                    "value": "b"
+                },
+                {
+                    "text": "Elles permettent d'éliminer les erreurs numériques.",
+                    "value": "c"
+                },
+                {
+                    "text": "Elles remplacent les projections orthographiques.",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.3",
+            "section": "Coordonnées homogènes",
+            "explanation": "L'utilisation de coordonnées homogènes permet de représenter des transformations affines comme des translations dans un cadre matriciel 4×4."
+        },
+        {
+            "text": "92. Quel est le rôle du facteur w dans les coordonnées homogènes ?",
+            "options": [
+                {
+                    "text": "Il permet la division homogène pour la projection en perspective.",
+                    "value": "a"
+                },
+                {
+                    "text": "Il détermine la couleur de l’objet projeté.",
+                    "value": "b"
+                },
+                {
+                    "text": "Il remplace la coordonnée z.",
+                    "value": "c"
+                },
+                {
+                    "text": "Il empêche les transformations affines.",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.3",
+            "section": "Coordonnées homogènes",
+            "explanation": "Le facteur w est utilisé pour effectuer une division homogène, essentielle pour obtenir une projection en perspective réaliste."
+        },
+        {
+            "text": "93. Quelle transformation devient possible en utilisant des matrices 4×4 au lieu de 3×3 ?",
+            "options": [
+                {
+                    "text": "La translation.",
+                    "value": "a"
+                },
+                {
+                    "text": "La rotation.",
+                    "value": "b"
+                },
+                {
+                    "text": "Le cisaillement.",
+                    "value": "c"
+                },
+                {
+                    "text": "La mise à l’échelle uniforme.",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.3",
+            "section": "Matrices homogènes",
+            "explanation": "Les matrices 4×4 permettent d’intégrer les translations sous forme de multiplication matricielle, ce qui est impossible avec les matrices 3×3."
+        },
+        {
+            "text": "94. Pourquoi la projection perspective rend-elle les objets plus petits à mesure qu’ils s’éloignent ?",
+            "options": [
+                {
+                    "text": "Parce que la division homogène réduit les coordonnées en fonction de la profondeur z.",
+                    "value": "a"
+                },
+                {
+                    "text": "Parce que les objets lointains sont supprimés par l’algorithme de rendu.",
+                    "value": "b"
+                },
+                {
+                    "text": "Parce que les objets sont redimensionnés proportionnellement à leur distance.",
+                    "value": "c"
+                },
+                {
+                    "text": "Parce que la caméra supprime les objets trop loin.",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.3",
+            "section": "Projection perspective",
+            "explanation": "La division homogène réduit les coordonnées x et y en divisant par z, ce qui donne l’effet de perspective où les objets éloignés apparaissent plus petits."
+        },
+        {
+            "text": "95. Quelle est la principale différence entre la projection en perspective et la projection orthographique ?",
+            "options": [
+                {
+                    "text": "La projection en perspective diminue la taille des objets éloignés, alors que l’orthographique conserve les tailles.",
+                    "value": "a"
+                },
+                {
+                    "text": "La projection orthographique fonctionne uniquement en 2D.",
+                    "value": "b"
+                },
+                {
+                    "text": "La projection en perspective est plus rapide à calculer.",
+                    "value": "c"
+                },
+                {
+                    "text": "La projection orthographique ne nécessite pas de matrices.",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.3",
+            "section": "Projection perspective",
+            "explanation": "Contrairement à la projection orthographique, la projection perspective réduit la taille des objets éloignés en appliquant une division homogène."
+        },
+        {
+            "text": "96. Comment une projection en perspective est-elle réalisée avec une matrice 4×4 ?",
+            "options": [
+                {
+                    "text": "En appliquant une division homogène après la multiplication matricielle.",
+                    "value": "a"
+                },
+                {
+                    "text": "En supprimant les coordonnées z.",
+                    "value": "b"
+                },
+                {
+                    "text": "En appliquant une mise à l’échelle uniforme.",
+                    "value": "c"
+                },
+                {
+                    "text": "En ajoutant une translation avant la rotation.",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.3",
+            "section": "Projection perspective",
+            "explanation": "La projection en perspective est obtenue en utilisant une matrice 4×4 qui encode la division homogène pour ajuster les coordonnées des objets en fonction de leur distance."
+        },
+        {
+            "text": "97. Quelle transformation affine utilise des matrices homogènes pour représenter une réflexion ?",
+            "options": [
+                {
+                    "text": "Une réflexion par rapport à un plan qui ne passe pas par l’origine.",
+                    "value": "a"
+                },
+                {
+                    "text": "Une réflexion uniquement autour de l’origine.",
+                    "value": "b"
+                },
+                {
+                    "text": "Une réflexion qui conserve la profondeur z.",
+                    "value": "c"
+                },
+                {
+                    "text": "Une réflexion qui ne peut être inversée.",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.3",
+            "section": "Transformations affines",
+            "explanation": "Grâce aux matrices homogènes, il est possible d’appliquer des réflexions par rapport à des plans arbitraires qui ne passent pas par l’origine."
+        },
+        {
+            "text": "98. Pourquoi la projection perspective est-elle souvent comparée à un appareil photo sténopé ?",
+            "options": [
+                {
+                    "text": "Parce qu’elle reproduit le même effet de focalisation des rayons lumineux convergeant vers un point unique.",
+                    "value": "a"
+                },
+                {
+                    "text": "Parce qu’elle fonctionne sans lentilles.",
+                    "value": "b"
+                },
+                {
+                    "text": "Parce qu’elle est plus simple que les caméras modernes.",
+                    "value": "c"
+                },
+                {
+                    "text": "Parce qu’elle ne nécessite pas de traitement informatique.",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.3",
+            "section": "Projection perspective",
+            "explanation": "Comme un appareil photo sténopé, la projection perspective simule la convergence des rayons lumineux vers un point de projection unique."
+        },
+        {
+            "text": "99. Pourquoi les matrices de projection en perspective sont-elles utilisées dans les systèmes graphiques modernes ?",
+            "options": [
+                {
+                    "text": "Elles permettent d’intégrer la perspective avec d’autres transformations matricielles.",
+                    "value": "a"
+                },
+                {
+                    "text": "Elles suppriment les calculs liés aux ombres.",
+                    "value": "b"
+                },
+                {
+                    "text": "Elles améliorent les performances du processeur graphique.",
+                    "value": "c"
+                },
+                {
+                    "text": "Elles remplacent complètement les coordonnées 3D.",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.3",
+            "section": "Projection perspective",
+            "explanation": "Les matrices de projection permettent d’intégrer la perspective directement dans la pipeline graphique en combinant transformations et projections en une seule opération matricielle."
+        },
+        {
+            "text": "100. Quelle est la principale propriété des matrices homogènes qui les rend utiles en 3D ?",
+            "options": [
+                {
+                    "text": "Elles permettent de combiner rotation, translation et mise à l’échelle dans un seul cadre mathématique.",
+                    "value": "a"
+                },
+                {
+                    "text": "Elles permettent d’éliminer les artefacts graphiques.",
+                    "value": "b"
+                },
+                {
+                    "text": "Elles évitent l’utilisation de vecteurs.",
+                    "value": "c"
+                },
+                {
+                    "text": "Elles permettent de représenter des coordonnées absolues uniquement.",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.3",
+            "section": "Matrices homogènes",
+            "explanation": "Les matrices homogènes permettent de gérer rotations, translations et mises à l’échelle en une seule opération matricielle, simplifiant les calculs graphiques."
+        },
+        {
+            "text": "101. Quelle est la différence principale entre orientation et direction ?",
+            "options": [
+                {
+                    "text": "L'orientation concerne la trajectoire et la direction concerne l'inclinaison.",
+                    "value": "a"
+                },
+                {
+                    "text": "L'orientation concerne comment un objet est aligné, et la direction concerne où il pointe.",
+                    "value": "b"
+                },
+                {
+                    "text": "L'orientation concerne les mouvements angulaires, et la direction concerne les distances.",
+                    "value": "c"
+                },
+                {
+                    "text": "Il n'y a pas de différence.",
+                    "value": "d"
+                }
+            ],
+            "correct": "b",
+            "CM": "CM 2.4",
+            "section": "QCM 4 : Orientation contre direction",
+            "explanation": "L'orientation concerne comment un objet est aligné ou tourné, tandis que la direction décrit vers où il pointe ou se déplace."
+        },
+        {
+            "text": "102. Comment décrit-on la position d’un objet dans un référentiel ?",
+            "options": [
+                {
+                    "text": "Par la rotation autour d'un axe.",
+                    "value": "a"
+                },
+                {
+                    "text": "Par la translation depuis un point de référence.",
+                    "value": "b"
+                },
+                {
+                    "text": "Par sa direction absolue.",
+                    "value": "c"
+                },
+                {
+                    "text": "Par une combinaison de vecteurs.",
+                    "value": "d"
+                }
+            ],
+            "correct": "b",
+            "CM": "CM 2.4",
+            "section": "QCM 4 : Orientation contre direction",
+            "explanation": "La position est décrite par la translation nécessaire depuis un point de référence pour atteindre l’objet."
+        },
+        {
+            "text": "103. Pourquoi un vecteur n’a-t-il pas d’orientation ?",
+            "options": [
+                {
+                    "text": "Car il n'a pas de longueur.",
+                    "value": "a"
+                },
+                {
+                    "text": "Car il peut être tourné autour de sa longueur sans changement.",
+                    "value": "b"
+                },
+                {
+                    "text": "Car il n'est pas lié à un référentiel.",
+                    "value": "c"
+                },
+                {
+                    "text": "Car il n'a pas d'épaisseur ni de dimensions supplémentaires.",
+                    "value": "d"
+                }
+            ],
+            "correct": "b",
+            "CM": "CM 2.4",
+            "section": "QCM 4 : Orientation contre direction",
+            "explanation": "Un vecteur peut être tourné autour de sa longueur sans que sa direction ne change, car il n'a pas de dimension ou d'épaisseur."
+        },
+        {
+            "text": "104. Dans quel cas l’orientation et la direction sont-elles toutes deux nécessaires ?",
+            "options": [
+                {
+                    "text": "Pour définir un vecteur.",
+                    "value": "a"
+                },
+                {
+                    "text": "Pour définir un déplacement.",
+                    "value": "b"
+                },
+                {
+                    "text": "Pour décrire le vol d’un avion.",
+                    "value": "c"
+                },
+                {
+                    "text": "Pour mesurer une trajectoire.",
+                    "value": "d"
+                }
+            ],
+            "correct": "c",
+            "CM": "CM 2.4",
+            "section": "QCM 4 : Orientation contre direction",
+            "explanation": "Le vol d’un avion nécessite une orientation pour indiquer l’inclinaison de l’avion et une direction pour préciser sa trajectoire."
+        },
+        {
+            "text": "105. Quelle est la relation entre orientation et rotation ?",
+            "options": [
+                {
+                    "text": "L'orientation est décrite par une rotation relative à une référence.",
+                    "value": "a"
+                },
+                {
+                    "text": "La rotation est fixe tandis que l'orientation change.",
+                    "value": "b"
+                },
+                {
+                    "text": "La rotation ne dépend pas de l'orientation.",
+                    "value": "c"
+                },
+                {
+                    "text": "L'orientation et la rotation sont identiques.",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.4",
+            "section": "QCM 4 : Orientation contre direction",
+            "explanation": "L'orientation est mesurée par la rotation nécessaire pour aligner un objet avec un référentiel."
+        },
+        {
+            "text": "106. Lorsqu'un voilier est incliné par le vent, qu’est-ce que cela représente ?",
+            "options": [
+                {
+                    "text": "Sa direction.",
+                    "value": "a"
+                },
+                {
+                    "text": "Son orientation.",
+                    "value": "b"
+                },
+                {
+                    "text": "Sa position.",
+                    "value": "c"
+                },
+                {
+                    "text": "Sa trajectoire.",
+                    "value": "d"
+                }
+            ],
+            "correct": "b",
+            "CM": "CM 2.4",
+            "section": "QCM 4 : Orientation contre direction",
+            "explanation": "Lorsque le voilier est incliné par le vent, cela représente son orientation par rapport à l’eau et à la direction du vent."
+        },
+        {
+            "text": "107. Quelle caractéristique décrit l’angle des pales d’une éolienne par rapport au vent ?",
+            "options": [
+                {
+                    "text": "Orientation.",
+                    "value": "a"
+                },
+                {
+                    "text": "Direction.",
+                    "value": "b"
+                },
+                {
+                    "text": "Rotation.",
+                    "value": "c"
+                },
+                {
+                    "text": "Position.",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.4",
+            "section": "QCM 4 : Orientation contre direction",
+            "explanation": "L’orientation des pales d’une éolienne décrit leur inclinaison pour capter le vent."
+        },
+        {
+            "text": "108. Comment définit-on la direction d’un joueur de football frappant un ballon ?",
+            "options": [
+                {
+                    "text": "L’alignement du corps du joueur par rapport au terrain.",
+                    "value": "a"
+                },
+                {
+                    "text": "La direction vers laquelle le ballon voyage.",
+                    "value": "b"
+                },
+                {
+                    "text": "L’angle du pied du joueur par rapport au ballon.",
+                    "value": "c"
+                },
+                {
+                    "text": "La vitesse à laquelle le ballon est frappé.",
+                    "value": "d"
+                }
+            ],
+            "correct": "b",
+            "CM": "CM 2.4",
+            "section": "QCM 4 : Orientation contre direction",
+            "explanation": "La direction d’un ballon de football correspond à la trajectoire qu’il suit après avoir été frappé."
+        },
+        {
+            "text": "109. Quelle caractéristique d’une caméra décrit son inclinaison par rapport au sol ?",
+            "options": [
+                {
+                    "text": "Direction.",
+                    "value": "a"
+                },
+                {
+                    "text": "Position.",
+                    "value": "b"
+                },
+                {
+                    "text": "Orientation.",
+                    "value": "c"
+                },
+                {
+                    "text": "Perspective.",
+                    "value": "d"
+                }
+            ],
+            "correct": "c",
+            "CM": "CM 2.4",
+            "section": "QCM 4 : Orientation contre direction",
+            "explanation": "L’orientation d’une caméra est définie par son inclinaison, sa rotation ou son pivotement par rapport à un référentiel."
+        },
+        {
+            "text": "110. Pourquoi la position et l’orientation d’un objet sont-elles toujours relatives ?",
+            "options": [
+                {
+                    "text": "Parce qu'elles dépendent d’un référentiel défini.",
+                    "value": "a"
+                },
+                {
+                    "text": "Parce qu'elles sont absolues dans certains cas.",
+                    "value": "b"
+                },
+                {
+                    "text": "Parce qu'elles changent avec la direction.",
+                    "value": "c"
+                },
+                {
+                    "text": "Parce qu'elles sont indépendantes de la rotation.",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.4",
+            "section": "QCM 4 : Orientation contre direction",
+            "explanation": "Position et orientation sont définies par rapport à un point ou un cadre de référence, elles n’ont pas de définition absolue."
+        },
+        {
+            "text": "111. Quelle est la différence entre la direction et l'orientation d'un objet ?",
+            "options": [
+                {
+                    "text": "L'orientation décrit comment l'objet est tourné, et la direction décrit vers où il pointe.",
+                    "value": "a"
+                },
+                {
+                    "text": "La direction concerne l'alignement de l'objet et l'orientation sa vitesse.",
+                    "value": "b"
+                },
+                {
+                    "text": "L'orientation est fixe tandis que la direction change avec le temps.",
+                    "value": "c"
+                },
+                {
+                    "text": "Il n'y a pas de différence entre les deux.",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.4",
+            "section": "Orientation contre direction",
+            "explanation": "L'orientation décrit comment un objet est incliné ou tourné, tandis que la direction indique où il se déplace ou pointe."
+        },
+        {
+            "text": "112. Pourquoi la position et l’orientation sont-elles toujours relatives ?",
+            "options": [
+                {
+                    "text": "Elles dépendent d’un référentiel défini.",
+                    "value": "a"
+                },
+                {
+                    "text": "Elles sont absolues dans certains cas.",
+                    "value": "b"
+                },
+                {
+                    "text": "Elles changent uniquement avec la vitesse.",
+                    "value": "c"
+                },
+                {
+                    "text": "Elles sont indépendantes du mouvement.",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.4",
+            "section": "Orientation contre direction",
+            "explanation": "La position et l’orientation doivent toujours être définies par rapport à un référentiel donné, car elles n’ont pas de signification absolue."
+        },
+        {
+            "text": "113. En quoi l’orientation d’un avion diffère-t-elle de sa direction ?",
+            "options": [
+                {
+                    "text": "L'orientation décrit l'inclinaison et l'angle de l'avion, alors que la direction correspond à la trajectoire qu'il suit.",
+                    "value": "a"
+                },
+                {
+                    "text": "L’orientation et la direction sont identiques.",
+                    "value": "b"
+                },
+                {
+                    "text": "La direction décrit la vitesse de l'avion, et l'orientation son altitude.",
+                    "value": "c"
+                },
+                {
+                    "text": "L'orientation est mesurée en kilomètres, tandis que la direction est mesurée en degrés.",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.4",
+            "section": "Orientation contre direction",
+            "explanation": "Un avion peut être orienté avec un certain angle (nez incliné vers le haut ou vers le bas) mais suivre une direction différente due à la force du vent et aux commandes du pilote."
+        },
+        {
+            "text": "114. Que représente l’orientation d’une caméra ?",
+            "options": [
+                {
+                    "text": "L'angle et l'orientation de la caméra par rapport à son support.",
+                    "value": "a"
+                },
+                {
+                    "text": "Le point exact où se trouve la caméra.",
+                    "value": "b"
+                },
+                {
+                    "text": "La distance entre la caméra et l'objet filmé.",
+                    "value": "c"
+                },
+                {
+                    "text": "La vitesse de mouvement de la caméra.",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.4",
+            "section": "Orientation contre direction",
+            "explanation": "L’orientation d’une caméra correspond à son inclinaison et sa rotation par rapport à son point de fixation, ce qui détermine la direction de son champ de vision."
+        },
+        {
+            "text": "115. Quelle transformation géométrique permet de modifier l’orientation d’un objet ?",
+            "options": [
+                {
+                    "text": "Une rotation.",
+                    "value": "a"
+                },
+                {
+                    "text": "Une translation.",
+                    "value": "b"
+                },
+                {
+                    "text": "Une mise à l’échelle.",
+                    "value": "c"
+                },
+                {
+                    "text": "Une réflexion.",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.4",
+            "section": "Transformations et orientation",
+            "explanation": "La rotation est la transformation qui modifie l'orientation d'un objet en le faisant pivoter autour d’un axe."
+        },
+        {
+            "text": "116. Lorsqu'un joueur de football frappe un ballon, que représente sa direction ?",
+            "options": [
+                {
+                    "text": "La trajectoire suivie par le ballon après avoir été frappé.",
+                    "value": "a"
+                },
+                {
+                    "text": "L’angle du pied du joueur par rapport au ballon.",
+                    "value": "b"
+                },
+                {
+                    "text": "L’orientation du corps du joueur sur le terrain.",
+                    "value": "c"
+                },
+                {
+                    "text": "La vitesse du ballon.",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.4",
+            "section": "Orientation contre direction",
+            "explanation": "La direction d’un ballon frappé est la trajectoire qu’il suit après l’impact du pied du joueur."
+        },
+        {
+            "text": "117. Comment une éolienne ajuste-t-elle son orientation ?",
+            "options": [
+                {
+                    "text": "En ajustant l’angle de ses pales pour maximiser la capture du vent.",
+                    "value": "a"
+                },
+                {
+                    "text": "En modifiant la hauteur de son mât.",
+                    "value": "b"
+                },
+                {
+                    "text": "En changeant la vitesse de rotation de ses pales.",
+                    "value": "c"
+                },
+                {
+                    "text": "En ajustant la température de ses composants.",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.4",
+            "section": "Orientation contre direction",
+            "explanation": "L’éolienne ajuste l’angle de ses pales en fonction du vent afin d’optimiser la production d’énergie."
+        },
+        {
+            "text": "118. Pourquoi un objet en mouvement peut-il avoir une orientation différente de sa direction ?",
+            "options": [
+                {
+                    "text": "Parce que l’objet peut être soumis à des forces externes, comme le vent ou la friction.",
+                    "value": "a"
+                },
+                {
+                    "text": "Parce que l’orientation est toujours identique à la direction.",
+                    "value": "b"
+                },
+                {
+                    "text": "Parce que l’objet ne suit jamais une trajectoire fixe.",
+                    "value": "c"
+                },
+                {
+                    "text": "Parce que l’orientation est uniquement influencée par la vitesse.",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.4",
+            "section": "Orientation contre direction",
+            "explanation": "Un objet en mouvement peut être influencé par des forces extérieures qui modifient sa direction sans affecter son orientation (exemple : un avion volant contre le vent)."
+        },
+        {
+            "text": "119. Quelle transformation est nécessaire pour modifier la direction d’un objet ?",
+            "options": [
+                {
+                    "text": "Une translation.",
+                    "value": "a"
+                },
+                {
+                    "text": "Une mise à l’échelle.",
+                    "value": "b"
+                },
+                {
+                    "text": "Une rotation.",
+                    "value": "c"
+                },
+                {
+                    "text": "Une réflexion.",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.4",
+            "section": "Transformations et orientation",
+            "explanation": "La translation modifie la position et la direction d’un objet dans l’espace."
+        },
+        {
+            "text": "120. Quelle propriété une orientation ne peut-elle jamais représenter ?",
+            "options": [
+                {
+                    "text": "Une position absolue.",
+                    "value": "a"
+                },
+                {
+                    "text": "Un angle de rotation.",
+                    "value": "b"
+                },
+                {
+                    "text": "Une inclinaison dans l’espace.",
+                    "value": "c"
+                },
+                {
+                    "text": "Un alignement par rapport à un axe.",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 2.4",
+            "section": "Orientation contre direction",
+            "explanation": "L'orientation ne peut pas définir une position absolue, car elle est toujours relative à un référentiel."
+        },
+        {
+            "text": "121. Quelle est la définition implicite d'un plan ?",
+            "options": [
+                {
+                    "text": "ax + by + cz = d",
+                    "value": "a"
+                },
+                {
+                    "text": "x² + y² + z² = r²",
+                    "value": "b"
+                },
+                {
+                    "text": "x = p0 + t*d̂",
+                    "value": "c"
+                },
+                {
+                    "text": "a*x² + b*xy + c*y² + d*x + e*y + f = 0",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 3.1",
+            "section": "Plans",
+            "explanation": "La forme implicite d’un plan est donnée par ax + by + cz = d, où [a, b, c] est le vecteur normal."
+        },
+        {
+            "text": "122. Quelle est l'équation d'une sphère unitaire centrée à l'origine ?",
+            "options": [
+                {
+                    "text": "x² + y² + z² = 1",
+                    "value": "a"
+                },
+                {
+                    "text": "x + y + z = 1",
+                    "value": "b"
+                },
+                {
+                    "text": "x² + y² = 1",
+                    "value": "c"
+                },
+                {
+                    "text": "x² + y² + z² = r²",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 3.1",
+            "section": "Sphères et Cercles",
+            "explanation": "L'équation x² + y² + z² = 1 est vraie pour une sphère unitaire centrée à l'origine."
+        },
+        {
+            "text": "123. Comment définit-on un rayon ?",
+            "options": [
+                {
+                    "text": "Un segment de droite infini dans une direction",
+                    "value": "a"
+                },
+                {
+                    "text": "Un segment de droite dirigé avec une origine et une extrémité",
+                    "value": "b"
+                },
+                {
+                    "text": "Un segment de droite avec deux extrémités",
+                    "value": "c"
+                },
+                {
+                    "text": "Une droite passant par un point",
+                    "value": "d"
+                }
+            ],
+            "correct": "b",
+            "CM": "CM 3.1",
+            "section": "Rayons",
+            "explanation": "En géométrie computationnelle, un rayon est un segment de droite dirigé, avec une origine et une extrémité."
+        },
+        {
+            "text": "124. Quelle est la formule de la distance entre un point et une ligne ?",
+            "options": [
+                {
+                    "text": "dist(q, l) = ||q − q'||",
+                    "value": "a"
+                },
+                {
+                    "text": "dist(q, l) = ||q × l||",
+                    "value": "b"
+                },
+                {
+                    "text": "dist(q, l) = ||p0 + t*d̂||",
+                    "value": "c"
+                },
+                {
+                    "text": "dist(q, l) = ||q − p0||",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 3.1",
+            "section": "Distance entre les points et les lignes",
+            "explanation": "La distance est définie comme la norme de la projection perpendiculaire entre le point q et la ligne l."
+        },
+        {
+            "text": "125. Quelle technique est utilisée pour représenter une sphère englobante ?",
+            "options": [
+                {
+                    "text": "Forme paramétrique",
+                    "value": "a"
+                },
+                {
+                    "text": "Forme implicite",
+                    "value": "b"
+                },
+                {
+                    "text": "Volumes englobants",
+                    "value": "c"
+                },
+                {
+                    "text": "Boîtes AABB",
+                    "value": "d"
+                }
+            ],
+            "correct": "c",
+            "CM": "CM 3.1",
+            "section": "Volumes englobants",
+            "explanation": "Une sphère englobante est un volume englobant rapide à calculer pour des tests de collision."
+        },
+        {
+            "text": "126. Comment calcule-t-on l'aire d'un triangle en 3D ?",
+            "options": [
+                {
+                    "text": "En utilisant la formule de Héron",
+                    "value": "a"
+                },
+                {
+                    "text": "En utilisant le produit vectoriel de deux vecteurs des arêtes",
+                    "value": "b"
+                },
+                {
+                    "text": "Avec la base et la hauteur",
+                    "value": "c"
+                },
+                {
+                    "text": "Avec les coordonnées barycentriques",
+                    "value": "d"
+                }
+            ],
+            "correct": "b",
+            "CM": "CM 3.1",
+            "section": "Triangles",
+            "explanation": "En 3D, l'aire est calculée à partir de la norme du produit vectoriel des deux vecteurs des arêtes du triangle."
+        },
+        {
+            "text": "127. Qu'est-ce qu'une AABB (Axis-Aligned Bounding Box) ?",
+            "options": [
+                {
+                    "text": "Une boîte englobante orientée",
+                    "value": "a"
+                },
+                {
+                    "text": "Une boîte englobante alignée sur les axes principaux",
+                    "value": "b"
+                },
+                {
+                    "text": "Une boîte convexe contenant un objet",
+                    "value": "c"
+                },
+                {
+                    "text": "Une sphère englobante avec des axes spécifiques",
+                    "value": "d"
+                }
+            ],
+            "correct": "b",
+            "CM": "CM 3.1",
+            "section": "Boîtes Englobantes",
+            "explanation": "Une AABB est une boîte englobante dont les côtés sont perpendiculaires aux axes principaux."
+        },
+        {
+            "text": "128. Comment transforme-t-on une AABB dans l'espace monde ?",
+            "options": [
+                {
+                    "text": "En recalculant les sommets et en ajustant les minimums et maximums",
+                    "value": "a"
+                },
+                {
+                    "text": "En gardant les dimensions inchangées",
+                    "value": "b"
+                },
+                {
+                    "text": "En appliquant une rotation simple",
+                    "value": "c"
+                },
+                {
+                    "text": "En ajoutant une translation à tous les sommets",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 3.1",
+            "section": "Transformation des AABB",
+            "explanation": "Pour transformer une AABB, on transforme ses sommets et on recalcule les minimums et maximums."
+        },
+        {
+            "text": "129. Qu'est-ce qu'une coordonnée barycentrique ?",
+            "options": [
+                {
+                    "text": "Un système pour exprimer les points sur un triangle en termes de ses sommets",
+                    "value": "a"
+                },
+                {
+                    "text": "Une coordonnée utilisée uniquement pour les triangles en 2D",
+                    "value": "b"
+                },
+                {
+                    "text": "Un vecteur unitaire normal à un plan",
+                    "value": "c"
+                },
+                {
+                    "text": "Une méthode pour calculer l'aire d'un polygone",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 3.1",
+            "section": "Triangles : Espace barycentrique",
+            "explanation": "Les coordonnées barycentriques expriment tout point sur un triangle comme une combinaison pondérée de ses sommets."
+        },
+        {
+            "text": "130. Comment détermine-t-on l'équation d'un plan à partir de trois points ?",
+            "options": [
+                {
+                    "text": "En calculant le produit scalaire des trois points",
+                    "value": "a"
+                },
+                {
+                    "text": "En trouvant deux vecteurs formés par les points et en calculant leur produit vectoriel",
+                    "value": "b"
+                },
+                {
+                    "text": "En calculant directement la distance entre les points",
+                    "value": "c"
+                },
+                {
+                    "text": "En utilisant la forme implicite de la sphère",
+                    "value": "d"
+                }
+            ],
+            "correct": "b",
+            "CM": "CM 3.1",
+            "section": "Plans",
+            "explanation": "Pour définir un plan, on trouve deux vecteurs à partir des points et leur produit vectoriel donne le vecteur normal."
+        },
+        {
+            "text": "131. Quelle est l'équation paramétrique d'un rayon ?",
+            "options": [
+                {
+                    "text": "p(t) = p0 + t d",
+                    "value": "a"
+                },
+                {
+                    "text": "x² + y² + z² = r²",
+                    "value": "b"
+                },
+                {
+                    "text": "ax + by + cz = d",
+                    "value": "c"
+                },
+                {
+                    "text": "p(t) = p0 × d",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 3.1",
+            "section": "Rayons",
+            "explanation": "Un rayon est défini par une origine p0 et un vecteur direction d, et sa représentation paramétrique est p(t) = p0 + t d."
+        },
+        {
+            "text": "132. Quel est le principal avantage des volumes englobants dans les moteurs de jeux ?",
+            "options": [
+                {
+                    "text": "Ils permettent d'afficher des objets en 3D",
+                    "value": "a"
+                },
+                {
+                    "text": "Ils simplifient les calculs de détection de collision",
+                    "value": "b"
+                },
+                {
+                    "text": "Ils rendent les objets plus réalistes",
+                    "value": "c"
+                },
+                {
+                    "text": "Ils augmentent la résolution des modèles",
+                    "value": "d"
+                }
+            ],
+            "correct": "b",
+            "CM": "CM 3.1",
+            "section": "Volumes englobants",
+            "explanation": "Les volumes englobants permettent de simplifier les tests de collision en éliminant rapidement les cas impossibles."
+        },
+        {
+            "text": "133. Quel est le rôle du vecteur normal dans la définition d'un plan ?",
+            "options": [
+                {
+                    "text": "Définir la position du plan",
+                    "value": "a"
+                },
+                {
+                    "text": "Définir l’orientation du plan",
+                    "value": "b"
+                },
+                {
+                    "text": "Déterminer la couleur du plan",
+                    "value": "c"
+                },
+                {
+                    "text": "Définir le centre du plan",
+                    "value": "d"
+                }
+            ],
+            "correct": "b",
+            "CM": "CM 3.1",
+            "section": "Plans",
+            "explanation": "Le vecteur normal est perpendiculaire au plan et indique son orientation dans l’espace."
+        },
+        {
+            "text": "134. Pourquoi utilise-t-on les boîtes orientées (OBB) au lieu des AABB dans certains cas ?",
+            "options": [
+                {
+                    "text": "Parce qu'elles sont plus faciles à calculer",
+                    "value": "a"
+                },
+                {
+                    "text": "Parce qu'elles épousent mieux la forme des objets",
+                    "value": "b"
+                },
+                {
+                    "text": "Parce qu'elles occupent plus d’espace",
+                    "value": "c"
+                },
+                {
+                    "text": "Parce qu’elles sont toujours plus petites",
+                    "value": "d"
+                }
+            ],
+            "correct": "b",
+            "CM": "CM 3.1",
+            "section": "Boîtes Englobantes",
+            "explanation": "Les OBB permettent une meilleure approximation des formes complexes en étant orientées dans n'importe quelle direction."
+        },
+        {
+            "text": "135. Quel est le principal inconvénient d'une sphère englobante ?",
+            "options": [
+                {
+                    "text": "Elle est difficile à calculer",
+                    "value": "a"
+                },
+                {
+                    "text": "Elle ne s’adapte pas bien aux formes allongées",
+                    "value": "b"
+                },
+                {
+                    "text": "Elle est plus coûteuse qu’une AABB",
+                    "value": "c"
+                },
+                {
+                    "text": "Elle nécessite plus de mémoire",
+                    "value": "d"
+                }
+            ],
+            "correct": "b",
+            "CM": "CM 3.1",
+            "section": "Volumes englobants",
+            "explanation": "Une sphère englobante couvre souvent plus d’espace que nécessaire lorsqu’un objet est allongé, ce qui peut réduire son efficacité."
+        },
+        {
+            "text": "136. Comment peut-on déterminer si un point est à l'intérieur d'un triangle en 3D ?",
+            "options": [
+                {
+                    "text": "En utilisant l’équation implicite du plan",
+                    "value": "a"
+                },
+                {
+                    "text": "En projetant le point sur le plan et en utilisant les coordonnées barycentriques",
+                    "value": "b"
+                },
+                {
+                    "text": "En mesurant la distance du point au triangle",
+                    "value": "c"
+                },
+                {
+                    "text": "En vérifiant si la somme des distances aux sommets est égale à la somme des côtés",
+                    "value": "d"
+                }
+            ],
+            "correct": "b",
+            "CM": "CM 3.1",
+            "section": "Triangles",
+            "explanation": "Les coordonnées barycentriques permettent de savoir si un point projeté appartient au triangle en vérifiant si elles sont comprises entre 0 et 1."
+        },
+        {
+            "text": "137. Quel est l’avantage des coordonnées barycentriques pour l'interpolation des couleurs dans un triangle ?",
+            "options": [
+                {
+                    "text": "Elles rendent les couleurs plus vives",
+                    "value": "a"
+                },
+                {
+                    "text": "Elles permettent une interpolation fluide entre les sommets",
+                    "value": "b"
+                },
+                {
+                    "text": "Elles accélèrent les calculs de collision",
+                    "value": "c"
+                },
+                {
+                    "text": "Elles réduisent la consommation mémoire",
+                    "value": "d"
+                }
+            ],
+            "correct": "b",
+            "CM": "CM 3.1",
+            "section": "Triangles",
+            "explanation": "En utilisant les coordonnées barycentriques, on peut interpoler des valeurs comme la couleur ou la texture à l'intérieur du triangle de manière progressive."
+        },
+        {
+            "text": "138. Que représente le déterminant d'une matrice de transformation rigide ?",
+            "options": [
+                {
+                    "text": "L'échelle de la transformation",
+                    "value": "a"
+                },
+                {
+                    "text": "L’orientation et la préservation des distances",
+                    "value": "b"
+                },
+                {
+                    "text": "La position de l’objet",
+                    "value": "c"
+                },
+                {
+                    "text": "La vitesse de transformation",
+                    "value": "d"
+                }
+            ],
+            "correct": "b",
+            "CM": "CM 3.1",
+            "section": "Transformations Rigides",
+            "explanation": "Une transformation rigide conserve les distances et les angles. Si le déterminant est 1 ou -1, la transformation préserve les volumes et l'orientation."
+        },
+        {
+            "text": "139. Pourquoi la hiérarchie de boîtes englobantes est-elle utilisée dans la détection de collision ?",
+            "options": [
+                {
+                    "text": "Pour éviter de tester toutes les paires d'objets",
+                    "value": "a"
+                },
+                {
+                    "text": "Pour rendre les tests plus précis",
+                    "value": "b"
+                },
+                {
+                    "text": "Pour réduire la taille des objets",
+                    "value": "c"
+                },
+                {
+                    "text": "Pour améliorer la texture des objets",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 3.1",
+            "section": "Boîtes Englobantes",
+            "explanation": "Une hiérarchie de boîtes englobantes permet de subdiviser l’espace et d’éliminer rapidement les paires d’objets qui ne peuvent pas entrer en collision."
+        },
+        {
+            "text": "140. Quel est le critère principal pour choisir une projection 2D lors du calcul des coordonnées barycentriques en 3D ?",
+            "options": [
+                {
+                    "text": "La projection qui maximise l’aire projetée",
+                    "value": "a"
+                },
+                {
+                    "text": "La projection qui minimise l’aire projetée",
+                    "value": "b"
+                },
+                {
+                    "text": "La projection sur le plan XY uniquement",
+                    "value": "c"
+                },
+                {
+                    "text": "La projection qui utilise le plus de calculs",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 3.1",
+            "section": "Triangles",
+            "explanation": "Pour minimiser les erreurs numériques, on choisit la projection qui donne la plus grande aire projetée, assurant ainsi plus de précision dans le calcul des coordonnées barycentriques."
+        },
+        {
+            "text": "141. Quelle est la principale différence entre un polygone simple et un polygone complexe ?",
+            "options": [
+                {
+                    "text": "Un polygone simple est toujours convexe",
+                    "value": "a"
+                },
+                {
+                    "text": "Un polygone complexe peut contenir des trous",
+                    "value": "b"
+                },
+                {
+                    "text": "Un polygone simple a toujours trois côtés",
+                    "value": "c"
+                },
+                {
+                    "text": "Un polygone complexe est défini uniquement en 3D",
+                    "value": "d"
+                }
+            ],
+            "correct": "b",
+            "CM": "CM 4.1",
+            "section": "Polygones",
+            "explanation": "Un polygone simple est un polygone sans trous, contrairement à un polygone complexe."
+        },
+        {
+            "text": "142. Comment identifier un polygone convexe ?",
+            "options": [
+                {
+                    "text": "Tous ses angles intérieurs sont inférieurs à 180°",
+                    "value": "a"
+                },
+                {
+                    "text": "Il possède au moins un point de concavité",
+                    "value": "b"
+                },
+                {
+                    "text": "Il ne peut avoir que trois côtés",
+                    "value": "c"
+                },
+                {
+                    "text": "Il ne peut jamais être triangulé",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 4.1",
+            "section": "Polygones",
+            "explanation": "Un polygone convexe ne présente aucun repli vers l'intérieur, ce qui signifie que tous ses angles intérieurs sont inférieurs à 180°."
+        },
+        {
+            "text": "143. Pourquoi les maillages triangulaires sont-ils privilégiés en rendu 3D ?",
+            "options": [
+                {
+                    "text": "Parce qu’ils sont plus beaux visuellement",
+                    "value": "a"
+                },
+                {
+                    "text": "Parce qu’ils sont plus faciles à manipuler mathématiquement",
+                    "value": "b"
+                },
+                {
+                    "text": "Parce qu’ils nécessitent moins de mémoire",
+                    "value": "c"
+                },
+                {
+                    "text": "Parce qu’ils permettent d’optimiser l'éclairage",
+                    "value": "d"
+                }
+            ],
+            "correct": "b",
+            "CM": "CM 4.1",
+            "section": "Maillages",
+            "explanation": "Les triangles sont la forme polygonale la plus simple et sont utilisés car ils garantissent la planéité et facilitent les calculs géométriques."
+        },
+        {
+            "text": "144. Quel type de structure est utilisé pour stocker un maillage triangulaire ?",
+            "options": [
+                {
+                    "text": "Une liste d’arêtes uniquement",
+                    "value": "a"
+                },
+                {
+                    "text": "Une liste de sommets et une liste d’indices",
+                    "value": "b"
+                },
+                {
+                    "text": "Un graphe orienté",
+                    "value": "c"
+                },
+                {
+                    "text": "Un arbre binaire",
+                    "value": "d"
+                }
+            ],
+            "correct": "b",
+            "CM": "CM 4.1",
+            "section": "Maillages",
+            "explanation": "Un maillage triangulaire indexé stocke une liste de sommets et une liste d’indices indiquant quels sommets forment chaque triangle."
+        },
+        {
+            "text": "145. Quelle est la caractéristique d'Euler-Poincaré d'une sphère ?",
+            "options": [
+                {
+                    "text": "0",
+                    "value": "a"
+                },
+                {
+                    "text": "1",
+                    "value": "b"
+                },
+                {
+                    "text": "2",
+                    "value": "c"
+                },
+                {
+                    "text": "-1",
+                    "value": "d"
+                }
+            ],
+            "correct": "c",
+            "CM": "CM 4.1",
+            "section": "Topologie",
+            "explanation": "La caractéristique d'Euler-Poincaré d'une surface de genre 0, comme une sphère, est égale à 2."
+        },
+        {
+            "text": "146. Comment savoir si un maillage est une variété (manifold) ?",
+            "options": [
+                {
+                    "text": "Chaque arête appartient à exactement deux faces",
+                    "value": "a"
+                },
+                {
+                    "text": "Chaque sommet appartient au même nombre de faces",
+                    "value": "b"
+                },
+                {
+                    "text": "Le maillage ne contient que des triangles",
+                    "value": "c"
+                },
+                {
+                    "text": "Il est uniquement composé de polygones convexes",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 4.1",
+            "section": "Topologie",
+            "explanation": "Un maillage est une variété si chaque arête est partagée par exactement deux faces, ce qui garantit une connectivité cohérente."
+        },
+        {
+            "text": "147. Quel est l’effet d’un zoom en 3D sur la projection perspective ?",
+            "options": [
+                {
+                    "text": "Il agrandit la taille du frustum de vue",
+                    "value": "a"
+                },
+                {
+                    "text": "Il modifie la distance focale et le champ de vision",
+                    "value": "b"
+                },
+                {
+                    "text": "Il modifie uniquement la résolution de l’image",
+                    "value": "c"
+                },
+                {
+                    "text": "Il déplace la caméra vers l’avant",
+                    "value": "d"
+                }
+            ],
+            "correct": "b",
+            "CM": "CM 4.1",
+            "section": "Visualisation 3D",
+            "explanation": "Le zoom en 3D change le champ de vision et la distance focale, affectant ainsi la perception des objets."
+        },
+        {
+            "text": "148. Quel est l'objectif principal de la matrice de clip en rendu 3D ?",
+            "options": [
+                {
+                    "text": "Découper les objets en petits morceaux",
+                    "value": "a"
+                },
+                {
+                    "text": "Préparer la projection et gérer le clipping",
+                    "value": "b"
+                },
+                {
+                    "text": "Supprimer les parties cachées d’un objet",
+                    "value": "c"
+                },
+                {
+                    "text": "Transformer les normales des objets",
+                    "value": "d"
+                }
+            ],
+            "correct": "b",
+            "CM": "CM 4.1",
+            "section": "Transformation 3D",
+            "explanation": "La matrice de clip sert à transformer les sommets pour préparer la projection et gérer le clipping des objets hors du frustum de vue."
+        },
+        {
+            "text": "149. Quelle est la fonction du frustum de vue en 3D ?",
+            "options": [
+                {
+                    "text": "Définir la zone visible par la caméra",
+                    "value": "a"
+                },
+                {
+                    "text": "Contrôler la texture des objets",
+                    "value": "b"
+                },
+                {
+                    "text": "Générer des ombres réalistes",
+                    "value": "c"
+                },
+                {
+                    "text": "Définir les axes de rotation des objets",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 4.1",
+            "section": "Visualisation 3D",
+            "explanation": "Le frustum de vue est une pyramide tronquée qui délimite l’espace visible par la caméra dans une scène 3D."
+        },
+        {
+            "text": "150. Quel type de projection est généralement utilisé pour minimiser les distorsions en rendu 3D ?",
+            "options": [
+                {
+                    "text": "Projection orthographique",
+                    "value": "a"
+                },
+                {
+                    "text": "Projection perspective",
+                    "value": "b"
+                },
+                {
+                    "text": "Projection cylindrique",
+                    "value": "c"
+                },
+                {
+                    "text": "Projection conique",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 4.1",
+            "section": "Transformation 3D",
+            "explanation": "La projection orthographique supprime les effets de perspective et préserve les proportions des objets."
+        },
+        {
+            "text": "151. Quelle est la principale différence entre l’espace modèle et l’espace monde ?",
+            "options": [
+                {
+                    "text": "L’espace modèle est propre à chaque objet, tandis que l’espace monde est commun à toute la scène",
+                    "value": "a"
+                },
+                {
+                    "text": "L’espace modèle est en 2D et l’espace monde en 3D",
+                    "value": "b"
+                },
+                {
+                    "text": "L’espace modèle est utilisé uniquement pour le rendu",
+                    "value": "c"
+                },
+                {
+                    "text": "L’espace monde est toujours centré sur l’origine",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 4.1",
+            "section": "Transformation 3D",
+            "explanation": "L’espace modèle est propre à chaque objet et est transformé dans l’espace monde, qui sert de référence pour toute la scène."
+        },
+        {
+            "text": "152. Comment est défini un espace caméra ?",
+            "options": [
+                {
+                    "text": "C’est un espace où l’origine est la position de la caméra",
+                    "value": "a"
+                },
+                {
+                    "text": "C’est un espace utilisé uniquement pour la lumière",
+                    "value": "b"
+                },
+                {
+                    "text": "C’est un espace où tous les objets sont projetés en 2D",
+                    "value": "c"
+                },
+                {
+                    "text": "C’est un espace intermédiaire entre l’espace modèle et l’espace texture",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 4.1",
+            "section": "Visualisation 3D",
+            "explanation": "Dans l’espace caméra, l’origine est placée à la position de la caméra, et l’axe Z pointe généralement dans la direction opposée au regard."
+        },
+        {
+            "text": "153. Quelle transformation permet de passer de l’espace monde à l’espace caméra ?",
+            "options": [
+                {
+                    "text": "La transformation de vue",
+                    "value": "a"
+                },
+                {
+                    "text": "La transformation modèle",
+                    "value": "b"
+                },
+                {
+                    "text": "La projection perspective",
+                    "value": "c"
+                },
+                {
+                    "text": "Le clipping",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 4.1",
+            "section": "Transformation 3D",
+            "explanation": "La transformation de vue permet de placer tous les objets dans un repère où la caméra est à l’origine."
+        },
+        {
+            "text": "154. Quelle est la principale utilité des normales de surface en rendu 3D ?",
+            "options": [
+                {
+                    "text": "Calculer l'éclairage et les ombres",
+                    "value": "a"
+                },
+                {
+                    "text": "Définir la position des objets",
+                    "value": "b"
+                },
+                {
+                    "text": "Définir la couleur des objets",
+                    "value": "c"
+                },
+                {
+                    "text": "Déterminer la texture d’un objet",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 4.1",
+            "section": "Maillages",
+            "explanation": "Les normales de surface sont essentielles pour les calculs d’éclairage et de rendu des ombres."
+        },
+        {
+            "text": "155. Pourquoi utilise-t-on la projection perspective au lieu de la projection orthographique en rendu 3D réaliste ?",
+            "options": [
+                {
+                    "text": "Parce qu’elle simule la perception humaine",
+                    "value": "a"
+                },
+                {
+                    "text": "Parce qu’elle réduit la consommation mémoire",
+                    "value": "b"
+                },
+                {
+                    "text": "Parce qu’elle est plus simple à calculer",
+                    "value": "c"
+                },
+                {
+                    "text": "Parce qu’elle ne dépend pas de la distance de la caméra",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 4.1",
+            "section": "Transformation 3D",
+            "explanation": "La projection perspective simule la façon dont l’œil humain perçoit la profondeur en réduisant la taille des objets éloignés."
+        },
+        {
+            "text": "156. Quelle est la propriété d’un maillage manifold (variété) ?",
+            "options": [
+                {
+                    "text": "Chaque arête appartient à exactement deux faces",
+                    "value": "a"
+                },
+                {
+                    "text": "Chaque sommet appartient au même nombre de triangles",
+                    "value": "b"
+                },
+                {
+                    "text": "Le maillage est toujours convexe",
+                    "value": "c"
+                },
+                {
+                    "text": "Le maillage est toujours fermé",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 4.1",
+            "section": "Topologie",
+            "explanation": "Un maillage manifold respecte la contrainte selon laquelle chaque arête appartient exactement à deux faces, garantissant ainsi une connectivité cohérente."
+        },
+        {
+            "text": "157. Pourquoi le frustum de vue est-il utile en rendu 3D ?",
+            "options": [
+                {
+                    "text": "Il définit la région visible par la caméra",
+                    "value": "a"
+                },
+                {
+                    "text": "Il définit l’éclairage de la scène",
+                    "value": "b"
+                },
+                {
+                    "text": "Il optimise la résolution de l’image",
+                    "value": "c"
+                },
+                {
+                    "text": "Il ajuste la saturation des couleurs",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 4.1",
+            "section": "Visualisation 3D",
+            "explanation": "Le frustum de vue permet de limiter les calculs de rendu aux objets visibles par la caméra, optimisant ainsi la performance."
+        },
+        {
+            "text": "158. Quelle est la principale contrainte d’une projection orthographique ?",
+            "options": [
+                {
+                    "text": "Elle ne prend pas en compte la perspective",
+                    "value": "a"
+                },
+                {
+                    "text": "Elle est plus difficile à calculer que la perspective",
+                    "value": "b"
+                },
+                {
+                    "text": "Elle empêche l’utilisation des textures",
+                    "value": "c"
+                },
+                {
+                    "text": "Elle empêche d’utiliser des lumières directionnelles",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 4.1",
+            "section": "Transformation 3D",
+            "explanation": "La projection orthographique ne réduit pas la taille des objets en fonction de leur distance, ce qui la rend peu réaliste pour certains types de rendu."
+        },
+        {
+            "text": "159. Que représente la caractéristique d’Euler-Poincaré d’un objet en 3D ?",
+            "options": [
+                {
+                    "text": "Une propriété topologique basée sur le nombre de sommets, arêtes et faces",
+                    "value": "a"
+                },
+                {
+                    "text": "La somme des angles intérieurs d’un polygone",
+                    "value": "b"
+                },
+                {
+                    "text": "Le volume total de l’objet",
+                    "value": "c"
+                },
+                {
+                    "text": "Le nombre d’arêtes connectées à chaque sommet",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 4.1",
+            "section": "Topologie",
+            "explanation": "La caractéristique d’Euler-Poincaré est définie par χ = V - E + F et permet de classifier les objets en fonction de leur structure topologique."
+        },
+        {
+            "text": "160. Quelle est l’utilité des transformations d’espace dans une scène 3D ?",
+            "options": [
+                {
+                    "text": "Elles permettent de positionner et orienter les objets",
+                    "value": "a"
+                },
+                {
+                    "text": "Elles modifient la résolution des textures",
+                    "value": "b"
+                },
+                {
+                    "text": "Elles permettent d’optimiser la mémoire",
+                    "value": "c"
+                },
+                {
+                    "text": "Elles modifient la structure des maillages",
+                    "value": "d"
+                }
+            ],
+            "correct": "a",
+            "CM": "CM 4.1",
+            "section": "Transformation 3D",
+            "explanation": "Les transformations d’espace (modèle, monde, caméra, clip) sont essentielles pour positionner et orienter les objets dans une scène 3D."
+        }
+    ]
+}
