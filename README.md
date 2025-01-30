@@ -2,6 +2,7 @@
 
 ## Description
 Un générateur de QCM dynamique et interactif, construit en Python avec génération HTML et JavaScript.
+Les questions actuelles sont basées sur le cours de mathématiques 3D.
 
 ## Fonctionnalités Clés
 - Génération automatique de pages de quiz
